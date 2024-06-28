@@ -6,7 +6,7 @@ Gendered Pathways in Science:Exploring the Impact of Researcher Gender on Academ
 
 ## Team Member
 
-- Karol K
+- Karol Korl
 - Zed Liu
 - Deniel Shumeiko
 
