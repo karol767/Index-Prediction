@@ -1,0 +1,932 @@
+Author Name,Title,Year,Citations
+Jonathan Roberto Torres Castillo,Neuromuscular disorders detection through time-frequency analysis and classification of multi-muscular EMG signals using Hilbert-Huang transform,2022,32
+Jonathan Roberto Torres Castillo,Cardiac Abnormalities Detection Through 12-Lead/Reduced-Lead ECG Spectrograms and 2D-CRNN,2021,2
+Jonathan Roberto Torres Castillo,Cardiac arrhythmias identification by parallel CNNs and ECG time-frequency representation,2020,2
+Jonathan Roberto Torres Castillo,Dispositivo háptico vibrotáctil inalámbrico para asistencia de actividades motoras,2018,2
+Jonathan Roberto Torres Castillo,Wireless vibrotactile wireless optical device for motor activity assistance motor activities,2022,0
+Jonathan Roberto Torres Castillo,Clasificación de señales EMG empleando características tiempo-frecuencia para el diagnostico de desordenes neuromusculares /,2018,0
+Jonathan Roberto Torres Castillo,Diseño e implementación de un sistema de transmisión vía TCPIP para un sensor de nivel,2017,0
+Deeksha Adiani,Career Interview Readiness in Virtual Reality (CIRVR): A Platform for Simulated Interview Training for Autistic Individuals and Their Employers,2022,17
+Deeksha Adiani,Usability enhancement and functional extension of a digital tool for rapid assessment of risk for autism spectrum disorders in toddlers based on pilot test and interview data,2019,9
+Deeksha Adiani,Multimodal job interview simulator for training of autistic individuals,2024,5
+Deeksha Adiani,Heart rate variability for stress detection with autistic young adults,2022,3
+Deeksha Adiani,Evaluation of Webcam-based Eye Tracking for a Job Interview Training Platform: Preliminary Results,2022,2
+Deeksha Adiani,Stress Detection of Autistic Adults during Simulated Job Interviews using a Novel Physiological Dataset and Machine Learning,2024,1
+Deeksha Adiani,Design of a Desktop Virtual Reality-based Collaborative Activities Simulator (ViRCAS) to Support Teamwork in Workplace Settings for Autistic Adults,2023,1
+Deeksha Adiani,Accessible Computing,2024,0
+Deeksha Adiani,Design of an Interview Script Authoring Tool for a Job Interview Training Simulator Using Graph Transformations,2023,0
+Deeksha Adiani,Dialogue Act Classification via Transfer Learning for Automated Labeling of Interviewee Responses in Virtual Reality Job Interview Training Platforms for Autistic Individuals,2023,0
+Deeksha Adiani,Design of a Virtual Task to Understand the Nature of Collaboration Between Autistic and Neurotypical Adults in Workplace Using Multimodal Data,2022,0
+Deeksha Adiani,Autoscreen: Phase I Results of a Digital Tool for Clinically Efficient Assessment and Decision Making for Toddlers with ASD Concerns,2020,0
+Deeksha Adiani,Career Interview Readiness in VR (CIRVR): Feasibility of an AI-Driven Platform for Employers and Neurodiverse Talent,2020,0
+Deeksha Adiani,Design of a Novel Web Utility that Provides Multi-lingual Word Definitions for Child E-Book Applications,2019,0
+Deeksha Adiani,Real-Time Analysis of Precursors to Challenging Behaviors for Intervention and Detection (Rapid) in Children with Autism Spectrum Disorder,N/A,0
+Viseth Sean,Predicting distributions of values of layers for three-dimensional printing,2022,10
+Viseth Sean,Manipulating image luminance to improve eye gaze and verbal behavior in autistic children,2022,6
+Viseth Sean,Toward digital image processing and eye tracking to promote visual attention for people with autism,2019,5
+Viseth Sean,Combining eye tracking and verbal response to understand the impact of a global filter,2020,4
+Viseth Sean,Global filter: Augmenting images to support seeing the “Big picture” for people with local interference,2023,3
+Viseth Sean,Rules for printing three-dimensional parts,2021,3
+Viseth Sean,"Designing, developing, and evaluating a global filter to work around local interference for children with autism",2020,3
+Viseth Sean,Printing production quality prediction,2022,2
+Viseth Sean,Connecting the dots for people with autism: a data-driven approach to designing and evaluating a global filter,2020,2
+Viseth Sean,AVA-TMP: A Human-in-the-Loop Multi-layer Dynamic Topic Modeling Pipeline,2022,0
+Viseth Sean,LOUANNE BOYD,2022,0
+Viseth Sean,Exploration Framework For Detecting Outliers In Data Streams,2016,0
+VARTIKA AGRAHARI,Ast [ar]–towards using augmented reality and abstract syntax trees for teaching data structures to novice programmers,2020,11
+VARTIKA AGRAHARI,What’s inside unreal engine?-a curious gaze!,2021,8
+VARTIKA AGRAHARI,GE852: A dataset of 852 game engines,2019,6
+VARTIKA AGRAHARI,Stackdoc-a stack overflow plug-in for novice programmers that integrates q&a with API examples,2019,4
+VARTIKA AGRAHARI,An exploratory study of code smells in web games,2020,3
+VARTIKA AGRAHARI,A catalogue of game-specific anti-patterns,2022,2
+VARTIKA AGRAHARI,Refactor4green: A game for novice programmers to learn code smells,2020,2
+VARTIKA AGRAHARI,GE526: A Dataset of Open-Source Game Engines,2021,1
+VARTIKA AGRAHARI,Supportarr: A plugin to comprehend arrays for novice programmers,2020,1
+VARTIKA AGRAHARI,A catalogue of game-specific anti-patterns based on GitHub and Game Development Stack Exchange,2023,0
+VARTIKA AGRAHARI,BlockList: A Game to Teach Basic Linked Lists Operations To Novice Programmers,2022,0
+VARTIKA AGRAHARI,L2- A Mini Game for Learning Indian Language Vocabulary,2020,0
+VARTIKA AGRAHARI,A Catalogue of Game-Specific Software Nuggets,2020,0
+VARTIKA AGRAHARI,2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR)| 978-1-7281-8710-5/20/$31.00© 2021 IEEE| DOI: 10.1109/MSR52588. 2021.00090,N/A,0
+Sayma Sultana,Exploring smart home device use by airbnb hosts,2020,19
+Sayma Sultana,Identifying the prevalence of gender biases among the computing organizations,2021,5
+Sayma Sultana,A Rubric to Identify Misogynistic and Sexist Texts from Software Developer Communications,2021,4
+Sayma Sultana,ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments,2023,3
+Sayma Sultana,Code reviews in open source projects: how do gender biases affect participation and outcomes?,2023,2
+Sayma Sultana,Identification and mitigation of gender biases to promote diversity and inclusion among open source communities,2022,2
+Sayma Sultana,Are Code Review Processes Influenced by the Genders of the Participants?,2021,2
+Sayma Sultana,Automated Identification of Sexual Orientation and Gender Identity Discriminatory Texts from Issue Comments,2023,1
+Sayma Sultana,Assessing the Influence of Toxic and Gender Discriminatory Communication on Perceptible Diversity in OSS Projects,2024,0
+Sayma Sultana,Identifying Sexism and Misogyny in Pull Request Comments,2022,0
+Sayma Sultana,Demonstration–Additional Reviewers,N/A,0
+Agata Filiana,Perancangan Data Warehouse Perguruan Tinggi untuk Kinerja Penelitian dan Pengabdian kepada Masyarakat,2020,24
+Agata Filiana,PENGEMBANGAN REST API UNTUK INFORMASI PASAR TRADISIONAL DI KOTA YOGYAKARTA DENGAN METODE INCREMENTAL,2022,4
+Agata Filiana,Pembangunan Dashboard untuk Mendukung Analisis Kartu Rencana Studi dan Kartu Hasil Studi Mahasiswa,2021,3
+Agata Filiana,Pengembangan dashboard informasi gereja tangguh bencana dengan metode user centered design,2022,2
+Agata Filiana,PENGEMBANGAN SITUS BADAN PROMOSI PARIWISATA KOTA YOGYAKARTA,2022,2
+Agata Filiana,Pengembangan Sistem Pelacakan Proyek Berbasis Web dengan Rapid Application Development Berdasarkan Studi Kasus PT. XYZ,2022,2
+Agata Filiana,PASAR TRADISIONAL SEBAGAI DESTINASI WISATA: APLIKASI SISTEM INFORMASI GEOGRAFIS UNTUK PEMETAAN PASAR TRADISIONAL DI KOTA YOGYAKARTA,2021,1
+Agata Filiana,Pengembangan Sistem Manajemen Rencana Strategis Studi Kasus Yayasan SATUNAMA Yogyakarta,2024,0
+Agata Filiana,"Usability Analysis of “SiPasar”, a Web-Based Application for Mapping Traditional Markets in Yogyakarta",2023,0
+Agata Filiana,Pelatihan Sistem Informasi Pemetaan UMKM berbasis Website pada GKJ Klasis Klaten Timur,2023,0
+Agata Filiana,Mood Tracking Apps from the Perspectives of Indonesian Students: A Qualitative Analysis,2023,0
+Agata Filiana,One Time Password Authentication for Machine Activation Monitoring System Based on Wireless Network,2023,0
+Agata Filiana,Sistem Rekomendasi Topik Skripsi Program Studi Informatika,2023,0
+Agata Filiana,Pendampingan Pembangunan Situs Profil Bengkel Pirus Sebagai Media Informasi dan Promosi,2023,0
+Agata Filiana,Pengalaman Pegawai Pendukung Akademik (PPA) Selama Bekerja Hybrid di Masa Pandemi COVID-19,2021,0
+Agata Filiana,Internship Challenges During Covid-19 for Information Technology Students,2021,0
+Agata Filiana,RANCANG BANGUN SISTEM PELACAKAN PERKEMBANGAN PROYEK MANUFAKTUR BERBASIS WEB,2021,0
+Agata Filiana,Membuat website dengan Microsoft Visual Web Developer 2008: express edition,2008,0
+Xiaoshuai Chen (陈晓帅),A pervasive respiratory monitoring sensor for COVID-19 pandemic,2020,19
+Xiaoshuai Chen (陈晓帅),Subject-independent slow fall detection with wearable sensors via deep learning,2020,19
+Xiaoshuai Chen (陈晓帅),G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm,2024,0
+Chettaoui Neila,Examining the effects of embodied interaction modalities on students’ retention skills in a real classroom context,2022,9
+Chettaoui Neila,Student performance prediction with eye-gaze data in embodied educational context,2023,5
+Chettaoui Neila,Exploring the impact of interaction modality on students’ learning performance,2022,5
+Chettaoui Neila,I2Evaluator: an aesthetic metric-tool for evaluating the usability of adaptive user interfaces,2018,5
+Chettaoui Neila,Towards the automatic evaluation of the quality of commercially-oriented Web interfaces,2016,5
+Chettaoui Neila,A futuristic design vision of tangible user interfaces on enhancing Montessori,2023,3
+Chettaoui Neila,Usability of Montessori tangible user interfaces to support learners’ retention skills in preschools,2023,2
+Chettaoui Neila,Predicting Students Performance Using Eye-Gaze Features in an Embodied Learning Environment,2022,2
+Chettaoui Neila,Predicting Student Performance in an Embodied Learning Environment,2021,1
+Chettaoui Neila,Exploring the impact of multimodal adaptive learning with tangible interaction on learning motivation,2020,1
+Chettaoui Neila,Embodied learning via tangible user interfaces: the impact of physical interaction on learning performance,2022,0
+Chettaoui Neila,Development of a Collaborative Software Platform of Image Processing For an Optical Probe Based on Fluorescence Imaging,N/A,0
+Zhang Jiehuang,Fairness in design: A framework for facilitating ethical artificial intelligence designs,2023,11
+Zhang Jiehuang,Human-machine interaction for autonomous vehicles: A review,2021,11
+Zhang Jiehuang,EID: Facilitating explainable AI design discussions in team-based settings,2023,8
+Zhang Jiehuang,Fairness in Design: A Tool for Guidance in Ethical Artificial Intelligence Design,2021,5
+Zhang Jiehuang,A Methodological Framework for Facilitating Explainable AI Design,2022,2
+Zhang Jiehuang,A survey of ethics in resource allocation and crowdsourcing,2018,1
+Zhang Jiehuang,A Design Methodology for Incorporating Privacy Preservation into AI Systems,2023,0
+Tristan McKinney,The challenge of variable effort crowdsourcing and how visible gold can help,2021,18
+Tristan McKinney,Wilsonian effective field theory of two-dimensional Van Hove singularities,2018,9
+Tristan McKinney,Exploiting invariance in training deep neural networks,2022,5
+Tristan McKinney,Decoherence of high-ℓ Rydberg wave packets,2011,5
+Tristan McKinney,Decoherence of high-l Rydberg wave packets by collisions and electrical noise,2011,1
+Tristan McKinney,Snapper: Accelerating bounding box annotation in object detection tasks with find-and-snap tooling,2024,0
+Tristan McKinney,Improving self-supervised representation learning via sequential adversarial masking,2022,0
+Tristan McKinney,The Effective Field Theory of Fermi Surfaces in the Vicinity of Van Hove Singularities,2018,0
+Tristan McKinney,Decoherence of high- Rydberg wave packets by collisions and electrical noise,2011,0
+Tristan McKinney,Withdrawn: Effective Field Theory of 2D van Hove Singularities,N/A,0
+Tristan McKinney,Effective Field Theory of 2D van Hove Singularities,N/A,0
+Tan Gemicioglu,"SilentSpeller: Towards mobile, hands-free, silent speech text entry using electropalatography",2022,18
+Tan Gemicioglu,"Mobile, hands-free, silent speech texting using silentspeller",2021,12
+Tan Gemicioglu,"Gaze & tongue: a subtle, hands-free interaction for head-worn devices",2023,4
+Tan Gemicioglu,Passive Haptic Rehearsal for Accelerated Piano Skill Acquisition,2022,2
+Tan Gemicioglu,FingerSpeller: Camera-Free Text Entry Using Smart Rings for American Sign Language Fingerspelling Recognition,2023,1
+Tan Gemicioglu,Tongue gestures for hands-free interaction in head worn displays,2022,1
+Tan Gemicioglu,Inertial sensing of tongue gestures,2024,0
+Tan Gemicioglu,TongueTap: Multimodal Tongue Gesture Recognition with Head-Worn Devices,2023,0
+Tan Gemicioglu,BrainBraille: Towards Passive Training in Brain-Computer Interfaces using fNIRS,2023,0
+Tan Gemicioglu,Learning Piano Songs with Passive Haptic Training: an Interactive Lesson,2022,0
+Minha Lee,Distracting moments in videoconferencing: A look back at the pandemic period,2022,20
+Minha Lee,What if artificial intelligence become completely ambient in our daily lives? Exploring future human-AI interaction through high fidelity illustrations,2023,9
+Minha Lee,“I Don't Know Exactly but I Know a Little”: Exploring Better Responses of Conversational Agents with Insufficient Information,2021,4
+Minha Lee,Fostering Youth’s Critical Thinking Competency About AI through Exhibition,2023,3
+Minha Lee,Toward a Multilingual Conversational Agent: Challenges and Expectations of Code-mixing Multilingual Users,2023,1
+Minha Lee,“I Won’t Go Speechless”: Design Exploration on a Real-Time Text-To-Speech Speaking Tool for Videoconferencing,2023,1
+Minha Lee,Understanding Stakeholders’ Needs for an Emergency Mobile Hospital at an Infectious Disease Situation,2021,0
+Jocelyn Shen,"Branching principles of animal and plant networks identified by combining extensive data, machine learning and modelling",2021,15
+Jocelyn Shen,Lifelong Personalization via Gaussian Process Modeling for Long-Term HRI,2021,10
+Jocelyn Shen,Towards transferrable personalized student models in educational games,2021,10
+Jocelyn Shen,Affective Typography: The Effect of AI-Driven Font Design on Empathetic Story Reading,2023,2
+Jocelyn Shen,Modeling Empathic Similarity in Personal Narratives,2023,1
+Jocelyn Shen,Designing Conversational Agents for Emotional Self-Awareness,2023,0
+Jocelyn Shen,Fostering Parent-Child Interactions through Behavioral Understanding of Synchrony,2023,0
+Jocelyn Shen,DRONEscape: Designing an Educational Escape Room for Adult AI Literacy,2023,0
+Maria Hartikainen,Human-centered AI design in reality: a study of developer companies’ practices: a study of developer companies’ practices,2022,11
+Maria Hartikainen,Understanding citizen perceptions of AI in the smart city,2023,9
+Maria Hartikainen,Towards a Human-Centred Artificial Intelligence Maturity Model,2023,7
+Maria Hartikainen,People with Parkinson's disease using computers,2015,7
+Maria Hartikainen,"\"" Call me Kiran\""–ChatGPT as a Tutoring Chatbot in a Computer Science Course",2023,2
+Maria Hartikainen,Towards Human-Centered Design of AI Service Chatbots: Defining the Building Blocks,2023,1
+Maria Hartikainen,Parkinsonin tautia sairastavien tietokoneen käyttö,2015,1
+Maria Hartikainen,User Perceptions of Help Posts in Commu Help Exchange Application,2023,0
+Maria Hartikainen,Understanding Citizens Perceptions of AI in the Smart City,N/A,0
+Abdul Rahman Shaikh,YouTube and science: models for research impact,2023,11
+Abdul Rahman Shaikh,Sightbi: Exploring cross-view data relationships with biclusters,2021,11
+Abdul Rahman Shaikh,Toward systematic design considerations of organizing multiple views,2022,7
+Abdul Rahman Shaikh,Predicting patent citations to measure economic impact of scholarly research,2019,6
+Abdul Rahman Shaikh,Quantifying the online long-term interest in research,2022,3
+Abdul Rahman Shaikh,Boundary Blending: Reconsidering the Design of Multi-View Visualizations,2023,0
+Abdul Rahman Shaikh,Modeling The Broader Impact of Science and Health Using Social Media,2022,0
+Brett A. Halperin,Probing a Community-Based Conversational Storytelling Agent to Document Digital Stories of Housing Insecurity,2023,10
+Brett A. Halperin,Envisioning Narrative Intelligence: A Creative Visual Storytelling Anthology,2023,10
+Brett A. Halperin,"What is in the Cards: Exploring Uses, Patterns, and Trends in Design Cards",2023,7
+Brett A. Halperin,Airbrush hyperfabric: designing interactive storytelling fabric connected to motion graphics and music.,2022,6
+Brett A. Halperin,Miracle Machine in the Making: Soulful Speculation with Kabbalah,2023,3
+Brett A. Halperin,Temporal Tensions in Digital Story Mapping for Housing Justice: Rethinking Time and Technology in Community-Based Design,2023,2
+Brett A. Halperin,Haunted Aesthetics and Otherworldly Possibilities: Generating (Dis)embodied Performance Videos with AI,2023,0
+Brett A. Halperin,Toward Lyrical Narrative Streetwear to Amplify Urban Community Action,2023,0
+Brett A. Halperin,Meta-summaries effective for improving awareness and understanding of COVID-19 vaccine safety research,2022,0
+Toshiki Aoki,Emoballoon-conveying emotional arousal in text chats with speech balloons,2022,25
+Toshiki Aoki,World robot challenge 2020–partner robot: a data-driven approach for room tidying with mobile manipulator,2022,11
+Toshiki Aoki,StripMaker: Perception-driven Learned Vector Sketch Consolidation,2023,1
+Toshiki Aoki,Blow-up Print: Rapidly 3D Printing Inflatable Objects in the Compressed State,2022,1
+Jarvis Tse,A new method for counting reproductive structures in digitized herbarium specimens using mask R-CNN,2020,35
+Jarvis Tse,Learning by teaching: Key challenges and design implications,2023,3
+Jarvis Tse,An Investigation of Human Annotators' AI Teammate Selection and Compliance Behaviours,2024,0
+Jarvis Tse,Assessing Plant Phenological Patterns in Tropical Brazil 1901–2020,2022,0
+Jarvis Tse,Mia: A Web Platform for Mixed-Initiative Annotation,2022,0
+Jarvis Tse,Urban heat islands accelerate changes in flowering phenology,2020,0
+Leonardo J. Gutiérrez,"Internet of things for mental health: open issues in data acquisition, self-organization, service level agreement, and identity management",2021,35
+Leonardo J. Gutiérrez,Towards context of quality in mobile sensing campaigns,2017,2
+Leonardo J. Gutiérrez,Integrating Pervasive Technologies Into Mental Health Services: A Qualitative Study in Mexico,2022,1
+Leonardo J. Gutiérrez,Technology-Based EMIs for Alcohol Use Disorder: Challenges and Opportunities in the Mexican Context,2023,0
+Leonardo J. Gutiérrez,Challenges and Opportunities for Designing Technology-Based Ecological Momentary Interventions (EMIs) in Mental Health,2022,0
+Leonardo J. Gutiérrez,Use of mobile technologies in the treatment of alcohol use disorder,2021,0
+Manideepa Mukherjee,MenstruLoss: sensor for menstrual blood loss monitoring,2019,12
+Manideepa Mukherjee,DFGenTool: A dataflow graph generation tool for coarse grain reconfigurable architectures,2017,11
+Manideepa Mukherjee,A novel architecture for conversion of binary to single digit double base numbers,2010,9
+Manideepa Mukherjee,Challenges and opportunities of textile based smart sanitary napkin design,2019,4
+Manideepa Mukherjee,DUMask: A Discrete and Unobtrusive Mask-Based Interface for Facial Gestures,2023,2
+Manideepa Mukherjee,MenstruWear: In-The-Wild Study For Characterizing The Effect Of User Activities On Sanitary Napkin-Based Bodily Fluid Monitoring,2023,0
+Manideepa Mukherjee,Performance analysis of a FPGA based novel binary and DBNS multiplier,2013,0
+Dong Heon Cho,CROM: Continuous reduced-order modeling of PDEs using implicit neural representations,2022,27
+Dong Heon Cho,""" I Want to Figure Things Out"": Supporting Exploration in Navigation for People with Visual Impairments",2023,11
+Duarte L. Sousa,Ambiguity in design: an airport split-flap display storytelling installation,2013,11
+Duarte L. Sousa,Co-designing convivial tools to support participation in community radio,2020,9
+Duarte L. Sousa,Cultural probes for environmental education: Designing learning materials to engage children and teenagers with local biodiversity,2022,7
+Duarte L. Sousa,The use of interactive technologies for education in pandemic and post-pandemic contexts: Design implications,2021,5
+Duarte L. Sousa,Social tech ecosystems in sub-Saharan Africa,2018,5
+Duarte L. Sousa,Design implications for interactive and analogue technologies supporting distance education: a longitudinal mixed-method study during the pandemic,2022,1
+Duarte L. Sousa,Enabling Genuine Connections in a Digital Learning Environment for Students Through Information Communication Technologies,2022,0
+Duarte L. Sousa,"Pedagogía progresiva para la innovación a través del arte, la ciencia y la tecnología: el caso de MASTmodule. eu",2022,0
+Duarte L. Sousa,"Pedagogía progresiva para la innovación a través del arte, la ciencia y la tecnología: el caso de MASTmodule. eu",2022,0
+Duarte L. Sousa,"Progressive pedagogies for innovation among art, science and technology: The case of MASTmodule. eu",2022,0
+Duarte L. Sousa,The use of interactive communication technologies for collaborative E-mentoring,2021,0
+Duarte L. Sousa,Um guia digital para a Natureza: promover a floresta dos Açores com aprendizagem baseada no lugar,2020,0
+Kimaya Lecamwasam,Machine learning of EEG spectra classifies unconsciousness during GABAergic anesthesia,2021,25
+Kimaya Lecamwasam,Recent advances in modeling sleep: from the clinic to society and disease,2020,11
+Kimaya Lecamwasam,Investigating the Physiological and Psychological Effect of an Interactive Musical Interface for Stress and Anxiety Reduction,2023,1
+Kimaya Lecamwasam,Multitaper spectra recorded during GABAergic anesthetic unconsciousness,2021,1
+Kimaya Lecamwasam,Designing Conversational Agents for Emotional Self-Awareness,2023,0
+Kimaya Lecamwasam,Pharmamusicology: Exploring the Impact of Music on the Physiology and Psychology of Anxiety Disorders and Well-Being,2023,0
+Kimaya Lecamwasam,Using Reinforcement Learning to Better Train Brain-Computer Interface-Enabled Robotic Prosthetics,2021,0
+Noor Al-Ansari,The role of machine learning in diagnosing bipolar disorder: scoping review,2021,36
+Noor Al-Ansari,Testing tailored weekly feedback messages for behavioral change of people living with diabetes using a mHealth application,2020,2
+Heng Yao,The role of suicide ideation in assessing near-term suicide risk: A machine learning approach,2021,14
+Heng Yao,Toward automated evaluation of empathetic responses in virtual human interaction systems for mental health scenarios,2020,13
+Heng Yao,Making virtual reality social,2019,3
+Heng Yao,A virtual human interaction using scaffolded ping-pong feedback for healthcare learners to practice empathy skills,2022,2
+Heng Yao,Investigating the effects of virtual patients’ nonsensical responses on users’ facial expressions in mental health training scenarios,2021,2
+Heng Yao,Staying alive with virtual humans,2018,2
+Heng Yao,In-vehicle alertness monitoring for older adults,2022,1
+Heng Yao,Investigating trainees’ nonverbal behaviors in virtual patients communication in virtual reality,2020,1
+Heng Yao,Can we talk about bruno? exploring virtual human counselors' spoken accents and their impact on users' conversations,2022,0
+Heng Yao,Effects of Virtual Humans' Spoken Accent on Users' Self-Disclosure in Mental Wellness Conversations,N/A,0
+Woojin Ko,Optimization and manipulation of contextual mutual spaces for multi-user virtual and augmented reality interaction,2020,38
+Woojin Ko,AR-Video Query,N/A,0
+Woojin Ko,Enhancing VR Experience Through Electrical Muscle Stimulation (EMS) System,N/A,0
+ANNA MARY MONDOL,Automated toll collection system based on RFID sensor,2019,38
+ANNA MARY MONDOL,Bangla sign language recognition using leap motion sensor,2019,0
+Rohan Tan Bhowmik,Quantum optical convolutional neural network: a novel image recognition framework for quantum computing,2021,23
+Rohan Tan Bhowmik,A Personalized Respiratory Disease Exacerbation Prediction Technique Based on a Novel Spatio-Temporal Machine Learning Architecture and Local Environmental Sensor Networks,2022,8
+Rohan Tan Bhowmik,A multi-modal wildfire prediction and early-warning system based on a novel machine learning framework,2023,4
+Rohan Tan Bhowmik,A multi-modal wildfire prediction and personalized early-warning system based on a novel machine learning framework,2022,2
+Rohan Tan Bhowmik,Automating the Standardized Cosmesis and Health Nasal Outcomes Survey Classification with Convolutional Neural Networks,2023,1
+Rohan Tan Bhowmik,A Multi-Modal Respiratory Disease Exacerbation Prediction Technique Based on a Spatio-Temporal Machine Learning Architecture,2021,0
+Rohan Tan Bhowmik,Using Machine Learning and Infrared Imagery to Detect Drunk Drivers,N/A,0
+Chengbo He,A pavement distresses identification method optimized for YOLOv5s,2022,35
+Chengbo He,Non-singular terminal sliding mode controller with nonlinear disturbance observer for robotic manipulator,2023,3
+Marcello Ranieri,Browsing multilingual information with the multisemcor web interface,2004,15
+Marcello Ranieri,Crossing parallel corpora and multilingual lexical databases for WSD,2005,11
+Marcello Ranieri,MultiSemCor: an English/Italian aligned corpus word-annotated with a shared inventory of senses,2005,11
+Marcello Ranieri,Descrivere,2003,1
+Marcello Ranieri,"GSF al Festival della Scienza di Genova 2012: Ricerca, sostenibilità e governance: laboratori di cittadinanza scientifica sulle tematiche ambientali",2013,0
+Marcello Ranieri,«Prendiamoci cura del Pianeta» Un decennio di educazione ambientale,2012,0
+Shern Shiou Tan,Automatically enhanced OCT scans of the retina: a proof of concept study,2020,27
+Shern Shiou Tan,Swiping with Luminophonics,2010,6
+Shern Shiou Tan,Measuring the performance of visual to auditory information conversion,2013,4
+Shern Shiou Tan,Improving visual-to-auditory cross-modality information conversions,2019,0
+Shern Shiou Tan,Luminophonics experiment: A user study on visual sensory substitution device,2015,0
+Shern Shiou Tan,APPARATUS AND METHOD FOR MULTIPLE-TOUCH SPATIAL SENSORS,2009,0
+Shern Shiou Tan,3D Spatial Sensor,2008,0
+edson rufino de souza,Web accessibility: evaluation of a website with different semi-automatic evaluation tools,2012,10
+edson rufino de souza,Acessibilidade web: diferentes definições e sua relação com o design universal,2016,8
+edson rufino de souza,Dosvox usability: recommendations for improving interaction of blind people with the web using the system,2012,6
+edson rufino de souza,Avaliação de usabilidade do sistema Dosvox na interação de cegos com a Web,2008,5
+edson rufino de souza,AVALIAÇÃO DE WEB SITE BASEADA EM CRITÉRIOS HEURÍSTICOS DE ACESSIBILIDADE,2005,3
+edson rufino de souza,A importância da participação do usuário na avaliação da acessibilidade de web sites,2006,2
+edson rufino de souza,Avaliação de acessibilidade realizada por usuários cegos,2005,2
+edson rufino de souza,Evaluación de la accesibilidad web: oportunidades con inteligencia artificial y aprendizaje automático,2023,1
+edson rufino de souza,Análise qualitativa de dados de pesquisa com foco na identificação de necessidades dos usuários,2019,0
+edson rufino de souza,AVALIAÇÃO DA CONFORMIDADE COM O WEB CONTENT ACCESSIBILITY GUIDELINES (WCAG),2018,0
+edson rufino de souza,Assessment of conformance methodology with the Web Content Accessibility Guidelines (WCAG-EM 1.0) - portuguese,2015,0
+edson rufino de souza,ASSESSMENT OF CONFORMANCE EVALUATION METHODOLOGY WITH THE WEB CONTENT ACCESSIBILITY GUIDELINES (WCAG-EM 1.0),2015,0
+edson rufino de souza,Adaptation of a Methodology for the Design of Accessible Web Sites,2009,0
+edson rufino de souza,AVALIAÇÃO DA CONFORMIDADE COM O WEB CONTENT ACCESSIBILITY GUIDELINES (WCAG): EXPERTISE DO AVALIADOR E SUA RELAÇÃO COM TÉCNICAS DE INSPEÇÃO. CONFORMANCE ASSESSMENT WITH THE WEB …,N/A,0
+edson rufino de souza,Avaliação da interface do web site da Universidade do Estado do Rio de Janeiro por meio de critérios ergonômicos.,N/A,0
+edson rufino de souza,Avaliação cooperativa de sítios eletrônicos com pessoas cegas Cooperative evaluation of web sites with participation of blind people,N/A,0
+Mahmoud Elmenshawy,Integrating social network services with vehicle tracking technologies,2013,28
+Mahmoud Elmenshawy,Design criteria and software metrics for efficient and effective web-enabled mobile applications,2013,8
+Mahmoud Elmenshawy,A case study on a systematic approach for developing a user interface software for programming intensive software tools,2015,1
+José Braz,Tarcast: Taxonomy for augmented reality casting with web support,2008,24
+José Braz,Advances in Computer Graphics and Computer Vision. International Conferences VISAPP and GRAPP 2006,2008,7
+José Braz,TARCAST: Uma Taxonomia para Sistemas de Realidade Aumentada,2005,3
+José Braz,VIDA–Interactive Viewer of Augmented (biomechanical) Data,2005,2
+José Braz,VIDA: Visualizador Interactivo de Dados (biomecânicos) Aumentados,2003,1
+José Braz,"Computer Vision, Imaging and Computer Graphics. Theory and Application - 7th International Joint Conference, VISIGRAPP 2012 - Revised Selected Papers",2013,0
+José Braz,"Computer Vision, Imaging and Computer Graphics. Theory and Application - International Joint Conference, VISIGRAPP 2011 - Revised Selected Papers",2011,0
+José Braz,"Computer Vision and Computer Graphics Theory and Applications - International Conference VISIGRAPP 2010. Angers, France,",2010,0
+José Braz,"Computer Vision and Computer Graphics Theory and Applications - International Conference VISIGRAPP 2008 Funchal, Portugal Revised Selected Papers",2009,0
+José Braz,"Computer Vision and Computer Graphics Theory and Applications - International Conference VISIGRAPP 2007 Barcelona, Spain, March 8- 11, 2007 - Revised Selected Papers",N/A,0
+Ricardo Sol,Assessment of activity trackers: toward an acceptance model,2016,19
+Ricardo Sol,Combining spatial and temporal information of eye movements in goal-oriented tasks,2013,8
+Ricardo Sol,Comparing the levels of frustration between an eye-tracker and a mouse: a pilot study,2013,3
+Ricardo Sol,Computer Supported Collaborative Learning for Programming: A Systematic Review.,2021,2
+Ricardo Sol,Acceptance model in designing for extreme users: extreme athletes using activity trackers,2021,2
+Ricardo Sol,"Cursor control trace: another look into eye-gaze, hand, and eye-hand pointing techniques. ACHI 2013",2013,2
+Ricardo Sol,Multiparameter optical monitoring of Madeira wine,2013,1
+Ricardo Sol,Activity Trackers: Comparing Athlete Runners versus Health Runners through a Dedicated Technology Acceptance Model.,2022,0
+Ricardo Sol,An Integrated Neural Network and Structural Equation Modeling Approach for Modeling Activity Trackers Use,2022,0
+Kamalika Dutta,Augmented Reality for Education and  E-Learning,2015,23
+Kamalika Dutta,Big Data Analytics for Real Time Systems,2015,13
+Kamalika Dutta,Business Procedure Modelling and Digitization Toolbox,2016,1
+Yoana Ahmetoglu,"To plan or not to plan? A mixed-methods diary study examining when, how and why knowledge work planning is inaccurate",2021,13
+Yoana Ahmetoglu,Evidence accumulation under uncertainty-a neural marker of emerging choice and urgency,2021,10
+Yoana Ahmetoglu,Disengaged from planning during the lockdown? an interview study in an academic setting,2021,5
+Yoana Ahmetoglu,Future challenges in design for multitasking at work,2019,4
+Yoana Ahmetoglu,Time Estimation Bias in Knowledge Work: Tasks With Fewer Time Constraints Are More Error-Prone,2020,3
+Yoana Ahmetoglu,A Longitudinal Interview Study on Work Planning During COVID-19 Lockdown,2020,2
+Yoana Ahmetoglu,Understanding and Supporting Daily Planning in Knowledge Work,2020,0
+Yoana Ahmetoglu,Motherhood and Employment: Challenges for HCI research on work-life conflict,2019,0
+JooHee Kim,Slowee A Smart Eating-Speed Guide System with Light and Vibration Feedback,2016,15
+JooHee Kim,A feedback system for the prevention of forward head posture in sedentary work environments,2016,11
+JooHee Kim,An eating speed guide system using a wristband and tabletop unit,2016,9
+JooHee Kim,Circle Round: Flexible communication using multiple access at face-to-face meeting,2016,2
+Zi-Ru Chen 陳姿汝,An assembly guidance system of tou kung based on augmented reality,2018,12
+Zi-Ru Chen 陳姿汝,Augmented reality,2015,9
+Zi-Ru Chen 陳姿汝,Comparisons of practice progress of digital design and fabrication in free-form architecture,2015,9
+Zi-Ru Chen 陳姿汝,The guidance system of gamification and augmented reality in a museum space,2020,5
+Zi-Ru Chen 陳姿汝,The Development of Social Design Education and Practice: A Retrospective Study,2022,1
+Zi-Ru Chen 陳姿汝,Observing the Frame of Creative Clusters/Groups: A Case Study of Historic Districts in Tainan City,2018,1
+Zi-Ru Chen 陳姿汝,The Interactive Behavior Analysis of Integrated Augmented Reality and Gamification Museum Guide System,2022,0
+Zi-Ru Chen 陳姿汝,The Museum Guidance System in Gamification Design,2020,0
+Zi-Ru Chen 陳姿汝,文化體驗設計與社會企業營運模式初探,2018,0
+Zi-Ru Chen 陳姿汝,Application of Digital Fabrication Techniques to Reconstruct Ancient Machinery-A Case-study of Su Song's Water-powered Astronomical Clock Tower,2017,0
+Zi-Ru Chen 陳姿汝,APPLICATION OF DIGITAL FABRICATION TECHNIQUES TO RECONSTRUCT ANCIENT MACHINERY,2017,0
+Zi-Ru Chen 陳姿汝,同時使用傳統和數位媒材之設計創造力,2006,0
+Fathi  Hamhoum,Supporting pilgrims in navigating densely crowded religious sites,2012,17
+Fathi  Hamhoum,Towards a location model for indoor navigation support through public displays and mobile devices.,2008,14
+Fathi  Hamhoum,Scalable navigation support for crowds: personalized guidance via augmented signage,2011,6
+Fathi  Hamhoum,A SURVEY OF PEDESTRIAN NAVIGATION SYSTEMS: PUBLIC DISPLAYS AND HANDHELD DEVICES,2022,0
+Fathi  Hamhoum,SECURE AND TRUSTABLE ROUTING PROTOCOL FOR ROUTING IN VEHICULAR DELAY TOLERANT NETWORK,2021,0
+Fathi  Hamhoum,Secure and trustable routing protocol for routing in vehicular delay tolerant network,2021,0
+Fathi  Hamhoum,وسائل الدفع الالكتروني في ليبيا بين الواقع والطموحات‎,2020,0
+Fathi  Hamhoum,Situated navigation support for heterogeneous large crowds via augmented signage,2012,0
+Fathi  Hamhoum,COMPARISON BETWEEN NETWORKS LTE AND WIMAX,N/A,0
+Fathi  Hamhoum,Reuniting group in densely crowded environments using situated dynamic signage,N/A,0
+Pantea Habibi,Improved readability and functions needed for mHealth apps targeting patients with heart failure: An app store review,2020,23
+Pantea Habibi,The impact of handedness on user performance in touchless input,2021,12
+Pantea Habibi,A quantitative analysis of patients’ narratives of heart failure,2019,1
+Pantea Habibi,A Left-Hand Advantage: Motor Asymmetry in Touchless Input,2019,1
+Pantea Habibi,Patients’ Perceptions of Heart Failure Through the Lens of Standardized Nursing Terminologies,2019,0
+Pantea Habibi,Promoting Patient Engagement Through Personalized Hospital-Stay Summaries,2019,0
+Pantea Habibi,Designing self-care technologies for HF patients: A conceptual model,2019,0
+Athar Mahmoudi-Nejad,A framework for easier designs: Augmented intelligence in serious games for cognitive development,2018,15
+Athar Mahmoudi-Nejad,Arachnophobia exposure therapy using experience-driven procedural content generation via reinforcement learning (EDPCGRL),2021,8
+Athar Mahmoudi-Nejad,The differences between children with autism and typically developed children in using a hand-eye-coordination video game,2017,7
+Athar Mahmoudi-Nejad,Learning analytics dashboard use in online courses: Why and how instructors interpret discussion data,2021,4
+Athar Mahmoudi-Nejad,Automated personalized exposure therapy based on physiological measures using experience-driven procedural content generation,2021,3
+Maxwell Bennett,Differences in interaction patterns and perception for teleoperated and autonomous humanoid robots,2017,33
+Maxwell Bennett,Investigating Interactions with Teleoperated and Autonomous Humanoids Using a Suit-Based VR Teleoperation Interface,2018,3
+Maxwell Bennett,img2fmri: a python package for predicting group-level fMRI responses to visual stimuli using deep neural networks,2023,1
+Maxwell Bennett,Virtual Reality to Promote Fitness in Ambulatory Youth with Cerebral Palsy: A Case Series,2023,0
+Maxwell Bennett,"Systems, devices, articles, and methods for user input",2017,0
+Hai Huang,Treasure codes: augmenting learning from physical museum exhibits through treasure hunting,2018,23
+Hai Huang,Enhancing reflective learning experiences in museums through interactive installations,2018,12
+Hai Huang,Augmenting learning from physical museum exhibits with personal mobile technology,2016,2
+Sarah Lim,Ply: A visual web inspector for learning from professional webpages,2018,16
+Sarah Lim,Peritext: A crdt for collaborative rich text editing,2022,15
+Sarah Lim,Ply: Visual regression pruning for web design source inspection,2017,6
+Sarah Lim,"Prototype implementation of Peritext, a CRDT for collaborative rich text editing",2022,0
+Zhengyan Dai,"The doctor’s digital double: how warmth, competence, and animation promote adherence intention",2018,26
+Zhengyan Dai,Exploring invisible disability disclosure in the sharing economy,2019,7
+Zhengyan Dai,"Creepy, but Persuasive: In a Virtual Consultation, Physician Bedside Manner, Rather than the Uncanny Valley, Predicts Adherence",2021,3
+Zhengyan Dai,Optimized Method of Multi-Feature for Content-based Image Retrieval,2015,1
+Zhengyan Dai,Investigating the Effect of a Digital Doctor on Persuasion,2021,0
+Mukkoti Maruthi Venkata Chalapathi,Ensemble learning by high-dimensional acoustic features for emotion recognition from speech audio signal,2022,26
+Mukkoti Maruthi Venkata Chalapathi,The role of machine learning in IoT: a survey,2022,7
+Mukkoti Maruthi Venkata Chalapathi,Cardiotocography Data Analysis for Fetal Health Classification Using Machine Learning Models,2024,1
+Mukkoti Maruthi Venkata Chalapathi,Speech Emotion Recognition using Supervised Bayes Learning on Digital Features of Multi-Label Data Corpus,2021,1
+Mukkoti Maruthi Venkata Chalapathi,A novel two-layer feature selection for emotion recognition with body movements,2021,1
+Mukkoti Maruthi Venkata Chalapathi,Self-Learning Based Emotion Recognition using Data Analytics,2019,1
+Mukkoti Maruthi Venkata Chalapathi,An Insight Into Viable Machine Learning Models for Early Diagnosis of Cardiovascular Disease,2024,0
+Mukkoti Maruthi Venkata Chalapathi,Cardiotocography Data Analysis for Fetal Health Classification Using Machine Learning Models,2024,0
+Mukkoti Maruthi Venkata Chalapathi,Techniques and Trade-Offs in Function Inlining Optimization,2024,0
+Mukkoti Maruthi Venkata Chalapathi,Design of efficient Programming Language with Lexer using’$’-prefixed identifier,2024,0
+Mukkoti Maruthi Venkata Chalapathi,Prediction of Seed Germination Quality Utilizing Ensemble-Based Precision Forming.,2023,0
+Mukkoti Maruthi Venkata Chalapathi,Deep Learning-Based Facial Emotion Analysis,2022,0
+Mukkoti Maruthi Venkata Chalapathi,A Novel Two-Layer Feature Selection for Emotion Recognition with Body Movements,2020,0
+Mukkoti Maruthi Venkata Chalapathi,Speech and Facial Based Emotion Recognition Using Deep Learning Approaches,2020,0
+Mukkoti Maruthi Venkata Chalapathi,A Novel Machine Learning Technique for Fraud Detection on Credit Card Financial Data,N/A,0
+Mukkoti Maruthi Venkata Chalapathi,A NEW DEADLOCK FREE ADAPTIVE FAULT TOLERANT ROUTING ALGORITHM,N/A,0
+Jeffrey R. Laferriere,"Assessing Learning from, with, and in Games Revisited: A Heuristic for Emerging Methods and Commercial Off-the-Shelf Games",2019,11
+Jeffrey R. Laferriere,Can video games be used as a stealth assessment of aggression?: A criterion-related validity study,2019,9
+Jeffrey R. Laferriere,Examining designed experiences: A walkthrough for understanding video games as performance assessments,2019,8
+Jeffrey R. Laferriere,"Interactive narratives, counterfactual thinking and personality in video games",2018,5
+Jeffrey R. Laferriere,A video game as a pedagogical tool for pre-service teachers to learn about bullying prevention and intervention in school contexts,2019,2
+Jeffrey R. Laferriere,Examining the Influence of Cognitive Ability on Situating to a Video Game: Expanded Discussion,2022,1
+Jeffrey R. Laferriere,Examining the Efficacy of a Bullying Prevention Video Game: An Intervention for Pre-Service Teachers,2017,1
+Jeffrey R. Laferriere,Correction to: Examining the Influence of Cognitive Ability on Situating to a Video Game: Expanded Discussion,2022,0
+Jeffrey R. Laferriere,Time to Acclimate: Examining the Influence of Cognitive Ability on Situating to a Video Game.,2020,0
+Jeffrey R. Laferriere,WORKFORCE: An Initial Examination,N/A,0
+Nafisa Nowshin,Performance Analysis of Different Word Embedding Models on Bangla Language,2018,30
+Nafisa Nowshin,A Crowd-Source Based Corpus on Bangla to English Translation,2018,7
+Nafisa Nowshin,Developing A Bangla WordNet: The Word Clustering Approach,2018,0
+Nandita Bhanja Chaudhuri,A computational model for subjective evaluation of novelty in descriptive aptitude,2022,9
+Nandita Bhanja Chaudhuri,A Content-Based Spam E-Mail Filtering Approach Using Multilayer Percepton Neural Networks,2015,6
+Nandita Bhanja Chaudhuri,Automating assessment of design exams: A case study of novelty evaluation,2022,5
+Nandita Bhanja Chaudhuri,A Review on Mental Health using Soft Computing and Neuro-Fuzzy Techniques,2016,5
+Nandita Bhanja Chaudhuri,A human-centred deep learning approach facilitating design pedagogues to frame creative questions,2022,3
+Nandita Bhanja Chaudhuri,Do Design Entrance Exams in India Really Test Creative Aptitude? An Analytical Study of Design Tests Conforming Creativity Benchmarks,2021,3
+Nandita Bhanja Chaudhuri,Detecting targeted malicious e-mail using linear regression algorithm with data mining techniques,2017,3
+Nandita Bhanja Chaudhuri,Self-Explanatory Interface: Embedding Visual and Aural Syntax to Improve Usability,2020,2
+Nandita Bhanja Chaudhuri,Designing deep-network based novelty assessment model in Design education,2023,1
+Nandita Bhanja Chaudhuri,Digitizing creativity evaluation in design education: a systematic literature review,2023,0
+Nandita Bhanja Chaudhuri,Digitizing Assessment of Creative Aptitude: A Human-Centred Design Approach,2022,0
+Nandita Bhanja Chaudhuri,A System for Evaluating Novelty of Creative Write-Up,2021,0
+Nandita Bhanja Chaudhuri,Self-Explanatory User Interface Aided with Visual and Aural Syntax to Improve Cognitive Ability in Human Task,2019,0
+Nandita Bhanja Chaudhuri,Redefining News Delivery—A Case Study of Communication Strategies Using HCI-Based Approach,2019,0
+Nandita Bhanja Chaudhuri,Green Cloud–The Safe Prospect in Computing,2015,0
+Nandita Bhanja Chaudhuri,An Evolutionary and a Rule-Based Approach to String Transformation,2014,0
+Osamah Mohammed Al-Omair,A comparative study on detection accuracy of cloud-based emotion recognition services,2018,23
+Osamah Mohammed Al-Omair,A comparative study of algorithms and methods for facial expression recognition,2019,8
+Osamah Mohammed Al-Omair,An emotional support robot framework using emotion recognition as nonverbal communication for human-robot co-adaptation,2022,3
+Osamah Mohammed Al-Omair,An Emotionally Adaptive Framework for E-Learning Systems,2019,3
+Osamah Mohammed Al-Omair,Incorporating Eye-Tracking and Facial Expression Recognition for Preference Prediction in Recommender Systems,2023,0
+Osamah Mohammed Al-Omair,Incorporating Emotion Recognition in Co-Adaptive Systems,2022,0
+Amit Kumar Nath,Analyzing COVID-19 challenges in Bangladesh,2020,17
+Amit Kumar Nath,Tradeoffs between sensing quality and energy efficiency for context monitoring applications,2016,9
+Amit Kumar Nath,Multivariate modeling and two-level scheduling of analytic queries,2019,5
+Amit Kumar Nath,Exploration of memory hybridization for RDD caching in Spark,2019,4
+Amit Kumar Nath,A Survey on Personal Image Retrieval Systems,2021,1
+Amit Kumar Nath,Enhancing MapReduce Fault Recovery Through Binocular Speculation,2019,1
+Amit Kumar Nath,An Empirical Study to Understand the Role of Institution-Based Trust and Its Antecedents in IoT Adoption by Individuals,2024,0
+Thomas Wells,CollabAR - Investigating the Mediating Role of Mobile AR Interfaces on Co-Located Group Collaboration,2019,35
+Thomas Wells,A Study into the Effect of Mobile Device Configurations on Co-Located Collaboration using AR,2022,2
+Thomas Wells,Reality and Beyond: Proxemics as a Lens for Designing Handheld Collaborative Augmented Reality,2023,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Methodologies and trends in multimedia systems: a systematic literature review,2019,11
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Proposal to conceive multimedia systems from a value creation perspective and a collaborative work routes Approach,2021,9
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Incorporación de sistemas informáticos de gestión en el Poder Judicial Boliviano,2002,6
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,A practice for the design of interactive multimedia experiences based on gamification: A case study in elementary education,2023,4
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Preproducción de sistemas multimedia: un enfoque centrado en la co-creación de valor y el diseño responsable,2022,2
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Proposal of a practice to conceive a minimum viable multimedia system,2021,2
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Product Design and Development Methodologies vs. Multimedia Systems Development Methodologies: an approximation from the foundations of their disciplines,2019,2
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Entornos virtuales–modelos de crecimiento PYME,2012,1
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Facial emotion recognition through artificial intelligence,2024,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Historias de usuario para el desarrollo de sistemas multimedia: un enfoque práctico,2024,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Learning analytics in the design of interactive multimedia experiences for elementary education: a systematic review,2024,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Learning Analytics and Interactive Multimedia Experience in Enhancing Student Learning Experience: A Systemic Approach,2023,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Usability Heuristics for Applications in the Context of Resilient Cities,2023,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Diseño de experiencia de usuario mediado por IA,2023,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,La trasescena del diseño de una experiencia multimedia interactiva para la enseñanza del inglés en preescolar,2023,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Inclusión de factores éticos y morales en la concepción y diseño de Sistemas Multimedia Interactivos,2021,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Learning analytics in the design of interactive multimedia experiences for elementary education: a systematic review,2014,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Plan de Gestión y Sostenibilidad para BDCOL,2011,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Diagnóstico sobre Modelos de Gestión y Plan de Sostenibilidad en Redes de Bibliotecas,2011,0
+Carlos Alberto Peláez Ayala - https://orcid.org/0000-0003-1747-3691,Exploring the Influence of Learning Analytics and Interactive Multimedia Experiences on Student Learning Experience,N/A,0
+Yu Wei Wang,JetController: High-speed Ungrounded 3-DoF Force Feedback Controllers using Air Propulsion Jets,2021,20
+Yu Wei Wang,Miniature Haptics: Experiencing Haptic Feedback through Hand-based and Embodied Avatars,2020,8
+Yu Wei Wang,HeadWind: Enhancing Teleportation Experience in VR by Simulating Air Drag during Rapid Motion,2022,5
+Yu Wei Wang,"HapticSeer: A Multi-channel, Black-box, Platform-agnostic Approach to Detecting Video Game Events for Real-time Haptic Feedback",2021,3
+Yu Wei Wang,Vibration feedback controlled by intuitive pressing in virtual reality,2019,1
+Yu Wei Wang,Demonstration of JetController: High-speed Ungrounded Force Feedback Controllers Using Air Propulsion Jets,2021,0
+Shivendra Singh,Indian semi-acted facial expression (ISAFE) dataset for human emotions recognition,2020,21
+Shivendra Singh,Harnessing emotions for depression detection,2022,16
+Janani Tharmaseelan,Cricket shot image classification using random forest,2021,10
+Janani Tharmaseelan,Enhancement of Supermarket using Smart Trolley,2020,7
+Janani Tharmaseelan,Medibot: End to end voice based AI medical chatbot with a smart watch,2021,6
+Janani Tharmaseelan,Revisit of automated marking techniques for programming assignments,2021,4
+Janani Tharmaseelan,Automated programming assignment marking tool,2022,3
+Janani Tharmaseelan,ipillow: Sleep quality improvement system,2019,3
+Janani Tharmaseelan,AI Approach In Monitoring The Physical And Psychological State Of Car Drivers And Remedial Action For Safe Driving,2020,2
+Janani Tharmaseelan,WoKnack–A Professional Social Media Platform for Women Using Machine Learning Approach,2021,1
+Janani Tharmaseelan,Source Code based Approaches to Automate Marking in Programming Assignments.,2021,1
+Janani Tharmaseelan,“My Eyes”: Assistive Mobile Application for Visually Impaired Designers,2022,0
+Janani Tharmaseelan,Security Smart Farming System–AgriPro,2021,0
+Janani Tharmaseelan,Smart Water Dispenser,2019,0
+Kartik Mathur,Gehna: Exploring the Design Space of Jewelry as an Input Modality,2019,20
+Kartik Mathur,Design and Evaluation of DIO Construction Toolkit for Co-making Shared Constructions,2019,13
+Kartik Mathur,Aesop: Authoring Engaging Digital Storytelling Experiences,2019,4
+Hyejin Hannah Kum-Biocca,Robot gesture and user acceptance of information in human-robot interaction,2012,12
+Hyejin Hannah Kum-Biocca,Teleworker’s Perception of Technology Use for Collaborative and Social During the COVID-19 Pandemic,2021,6
+Hyejin Hannah Kum-Biocca,A Room With a” Fake” View: Installing Digital Windows in Windowless Offices,2020,6
+Hyejin Hannah Kum-Biocca,The role of the self-presence for interactive large digital displays: Gesture interactivity and mirrored-self image for advertising content,2022,3
+Hyejin Hannah Kum-Biocca,Understanding Working from Home Practical Changes and Adaptations During the COVID-19 Pandemic,2021,3
+Hyejin Hannah Kum-Biocca,AR-VIS: Augmented Reality Interactive Visualization Environment for Exploring Dynamic Scientific Data,2019,3
+Hyejin Hannah Kum-Biocca,Evaluating global integrated transportation application for mega event: Role of trust and exchanging personal information in mobility as a service (maas),2020,2
+Hyejin Hannah Kum-Biocca,"Molecular Augmented Reality for Design and Engineering (MADE): Effectiveness of AR Models on Discovery, Learning, and Education",2020,2
+Hyejin Hannah Kum-Biocca,"Designing MADE, an Augmented Reality Application for Macromolecule Visualization",2022,0
+Hyejin Hannah Kum-Biocca,AI: artificial interruption,2020,0
+Hyejin Hannah Kum-Biocca,"HCI International 2020–Late Breaking Posters: 22nd International Conference, HCII 2020, Copenhagen, Denmark, July 19–24, 2020, Proceedings, Part I",2020,0
+Hyejin Hannah Kum-Biocca,DD 364-002: Digital Design Studio IV (Revised for Remote Learning),2020,0
+Hyejin Hannah Kum-Biocca,AR-VIS: Augmented Reality Interactive Visualization Environment for Exploring Dynamic Scientific Data,2019,0
+Hyejin Hannah Kum-Biocca,One-hand texting usability with iphone 5 touch-screen keyboard vertical position,2014,0
+Hyejin Hannah Kum-Biocca,Analysis of IPhone icon and UI design using HCI concept,2010,0
+Anindya Agripina Hadyanawati,Analisis Postur Kerja Menggunakan Rapid Office Strain Assessment dan CMDQ pada PT XYZ,2019,14
+Anindya Agripina Hadyanawati,"Quality of life, health and environment in older adults: Nursing house stress aging assessment",2019,10
+Anindya Agripina Hadyanawati,Farmer’s work posture analysis affected musculoskeletal disorders,2019,5
+Anindya Agripina Hadyanawati,Analisis Penerapan Metode 6S Dan Lingkungan Kerja Fisik Terhadap Karyawan Konveksi XYZ di Yogyakarta,2020,3
+Anindya Agripina Hadyanawati,"Desain Meja, Kursi, dan Lampu yang Terintegrasi guna Menunjang Aktifitas Belajar",2019,3
+Anindya Agripina Hadyanawati,Analisis Kelelahan Kerja Akibat Aktifitas Fisik terhadap Kecepatan Reaksi Mahasiswa di Daerah Istimewa Yogyakarta,2020,2
+Anindya Agripina Hadyanawati,The influence of audio intervention based on “drivers” situational awareness,2023,0
+Anindya Agripina Hadyanawati,ANALISIS PENERAPAN KESEHATAN DAN KESELAMATAN KERJA MENGGUNAKAN METODE HAZARD IDENTIFICATION AND RISK ASSESSMENT (HIRA)(STUDI KASUS: UKM ATHAYA DRUMBAND),2023,0
+Anindya Agripina Hadyanawati,Scheduled Bulk SMS Program as Hypertension Education Media and Medication Reminder in Puskesmas 2 East Denpasar,2020,0
+Anindya Agripina Hadyanawati,PERANCANGAN KAMAR TIDUR ERGONOMIS BAGI LANSIA DENGAN INTEGRASI METODE AXIOMATIC DAN TRIZ ERGONOMIC BEDROOM DESIGN FOR ELDERLY WITH THE INTEGRATION OF AXIOMATIC AND TRIZ METHODS,N/A,0
+Anindya Agripina Hadyanawati,Analisis Pengaruh Tingkat Kepadatan Lalu Lintas dan Jenis Kelamin Terhadap Situational Awareness,N/A,0
+Ousmer Mehdi,An ontology for reasoning on body-based gestures,2019,16
+Ousmer Mehdi,Recognizing 3D Trajectories as 2D Multi-stroke Gestures,2020,12
+Ousmer Mehdi,Avatar-Facilitated Therapy and Virtual Reality: Next-Generation of Functional Rehabilitation Methods,2020,7
+Ousmer Mehdi,Towards a real-time fall detection system using Kinect Sensor,2016,2
+Ousmer Mehdi,A Systematic Procedure for Comparing Template-Based Gesture Recognizers,2022,0
+Petra Jääskeläinen,Exploring more-than-human caring in creative-ai interactions,2022,12
+Petra Jääskeläinen,On the Environmental Sustainability of Ai Art(s),2022,11
+Petra Jääskeläinen,Environmental and Social Sustainability of Creative-Ai,2022,4
+Petra Jääskeläinen,Ethically Aligned Stakeholder Elicitation (EASE): Case Study in Music-AI,2023,3
+Petra Jääskeläinen,Towards Sustainability Assessment of Artificial Intelligence in Artistic Practices,2022,3
+Petra Jääskeläinen,How to Make AI Artists Feel Guilty in a Good Way? Designing Integrated Sustainability Reflection Tools (SRTs) for Visual Generative AI,2023,2
+Petra Jääskeläinen,The Green Notebook - A Co-Creativity Partner for Facilitating Sustainability Reflection,2023,1
+Petra Jääskeläinen,Conversation Analysis as a Design Research Method for Designing Socioculturally Contextual Conversational Agents,2020,1
+Petra Jääskeläinen,Explainable Sustainability for AI in the Arts,2023,0
+Petra Jääskeläinen,Can AI Evoke Customers' Sustainable Investment Preferences? A User Study of Robo-advisors,2023,0
+Petra Jääskeläinen,"Environmental Ethics of Creative-AI: Shifting from Modernist Rationality to Entangled, More-than-Human Felt Care",2023,0
+Petra Jääskeläinen,Speculation and Fiction in Exploring Values and Ethics in Creative-AI Technologies,2023,0
+Petra Jääskeläinen,Generative AI for First-Person Meta Reflection in Design Research: More-than-Human Storying the Ecologies of AI Arts,2023,0
+Petra Jääskeläinen,"On Creative-AI, Imaginaries, and Sustainability",2023,0
+Petra Jääskeläinen,Sustainability and Ethics Perspectives on Creative-Ai,2022,0
+Petra Jääskeläinen,Environmental and Social Sustainability of Creative-Ai,2022,0
+Petra Jääskeläinen,Environmental Ethics of Creative-AI,N/A,0
+Md Montaser Hamid,DendroMap: Visual Exploration of Large-Scale Image Datasets for Machine Learning with Treemaps,2022,21
+Md Montaser Hamid,An approach to design and develop UX/UI for smartphone applications of minority ethnic group,2019,5
+Md Montaser Hamid,How to measure diversity actionably in technology,2023,4
+Md Montaser Hamid,Bangla interrogative sentence identification from transliterated bangla sentences,2018,3
+Md Montaser Hamid,Emergence of Polarization and Marginalization in Online Education System of Bangladesh Due to COVID-19: Challenges and Policies to Ensure Inclusive Education,2021,2
+Md Montaser Hamid,A Hybrid Approach to Design Automatic Spelling Corrector and Converter for Transliterated Bangla Words,2020,2
+Md Montaser Hamid,Improving User Mental Models of XAI Systems with Inclusive Design Approaches,2023,0
+Md Montaser Hamid,Peritraumatic Distress of COVID-19 on Physicians in Bangladesh: Implications and Policy Recommendations,2021,0
+Md Montaser Hamid,Design and Development of an ICT Intervention for Early Childhood Development in Minority Ethnic Communities in Bangladesh,2021,0
+Adi Manor,Enhancing emotional support: The effect of a robotic object on human–human support quality,2022,29
+Adi Manor,A non-humanoid robotic object for providing a sense of security,2022,7
+Adi Manor,The Multifaceted Nature of Robotic Companionship when Presented as a Secondary Function,2021,1
+Adi Manor,The Effects of a Biofeedback Breathing Device on Stress and Burnout in Oncology Healthcare Providers,2023,0
+Adi Manor,Can Robots Impact Our Willingness to Explore New Experiences?,2023,0
+Samanthi Siriwardana,CIS: An automated criminal identification system,2018,18
+Samanthi Siriwardana,E-Learning Platform for Hearing Impaired Students,2021,6
+Samanthi Siriwardana,Academic depression detection using behavioral aspects for Sri Lankan university students,2021,3
+Samanthi Siriwardana,Design-Thinking and UCD Combination for Designing Effective Time Management Assistant Mobile App.,2021,3
+Samanthi Siriwardana,Elegant Fit-On–Virtual Fitting Room on Handheld Devices,2022,2
+Samanthi Siriwardana,Voice Enabled Intelligent Programming Assistant,2022,2
+Samanthi Siriwardana,Smart Caring System for Ornamental Fish,2022,1
+Samanthi Siriwardana,Mobile Based Solution to Weight Loss Planning for Children (with Obesity) in Sri Lanka,2021,1
+Samanthi Siriwardana,An Investigation into UI generation compliant with HCI standards ensuring artifact consistency across SDLC,2021,1
+Samanthi Siriwardana,BRIGHT MINDS Online E-Learning App for Kids-Web Application,2023,0
+Samanthi Siriwardana,A Machine Learning Approach to Analyze the Drug Addiction,2023,0
+Samanthi Siriwardana,"MYALO: A System for Recognizing, Diagnosing, and Advising on Three Main Mental Illnesses",2023,0
+Samanthi Siriwardana,Machine Learning-Based Detection System for Facial Skin Diseases and Ayurvedic Remedies,2023,0
+Samanthi Siriwardana,HABARALA-A Comprehensive Solution for Food Security and Sustainable Agriculture through Alternative Food Resources and Technology,2023,0
+Samanthi Siriwardana,Kaizen: Computer Vision Based Interactive Karate Training Platform,2022,0
+Samanthi Siriwardana,ScheduleME-Smart Digital Personal Assistant for Automatic Priority Based Task Scheduling and Time Management,2021,0
+Samanthi Siriwardana,Automated Non-verbal Child Intelligent Assessment Tool,2020,0
+Samanthi Siriwardana,EyeDriver: Intelligent Driver Assistance System,2019,0
+Samanthi Siriwardana,Money Empire: Intelligent Assistant for Personal Finance Management,N/A,0
+Vikram Apilla,A comparison of input devices for precise interaction tasks in VR-based surgical planning and training,2022,19
+Vikram Apilla,Estimating depth information of vascular models: A comparative user study between a virtual reality and a desktop application,2021,9
+Vikram Apilla,Collaborative vr for liver surgery planning using wearable data gloves: An interactive demonstration,2021,8
+Vikram Apilla,Automatic Animations to Analyze Blood Flow Data,2021,1
+Vikram Apilla,2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)| 978-1-6654-4057-8/20/$31.00© 2021 IEEE| DOI: 10.1109/VRW52623. 2021.00274,N/A,0
+Vikram Apilla,"Auerbach, Daniel 508 Augereau, Olivier 54 Avellino, Ignacio 437, 462 Azeemuddin, Syed 660",N/A,0
+Bin Han,Mixing in Reverse Optical Flow to Mitigate Vection and Simulation Sickness in Virtual Reality,2022,25
+Bin Han,AudienceMR: Extending the Local Space for Large-Scale Audience with Mixed Reality for Enhanced Remote Lecturer Experience,2021,7
+Bin Han,Masked FER-2013: augmented dataset for facial expression recognition,2023,2
+Bin Han,Real-Time Facial Animation Generation on Face Mask,2022,2
+Bin Han,2D/3D Mixed Interface for Furniture Placement in Smartphone-based Mobile Augmented Reality,2019,1
+Bin Han,The Effects of Engaging and Affective Behaviors of Virtual Agents in Group Decision-Making,2023,0
+Bin Han,디지털 휴먼을 활용한 영화 스크립트 기반 프리비즈 자동화 시스템,2023,0
+Bin Han,Digital Agent's Engagement and Affective Posture Impact Its Social Presence and Trustworthiness in Group Decision-Making,2023,0
+Bin Han,가상 에이전트의 형체를 활용한 원격 상담 시스템,2023,0
+Bin Han,ASAP: Auto-generating Storyboard and Previz,2022,0
+Bin Han,A Quantitative Model to Evaluate Serendipity in Hypertext,2021,0
+Bin Han,An Approach to Compute Hyperlinks on the Web of Data,2020,0
+Bin Han,Application of Semantic Web technologies in Informatics Education,2020,0
+Qiong (Tina) Nie,An integrative framework to guide social engagement interventions and technology design for persons with mild cognitive impairment,2022,12
+Qiong (Tina) Nie,Design guidance for video chat system to support social engagement for older adults with and without mild cognitive impairment,2020,11
+Qiong (Tina) Nie,Guiding technology design to empower older adults to actively engage in society,2019,5
+Qiong (Tina) Nie,Understanding exercise challenges and barriers for older adults with mobility disabilities,2020,2
+Qiong (Tina) Nie,Social engagement through video chat for older individuals with and without cognitive impairment,2018,2
+Qiong (Tina) Nie,User insights for design of an antihypertensive medication management application,2018,2
+Qiong (Tina) Nie,Understanding wheelchair use in older adults from the National Health and Aging Trends Study,2024,1
+Qiong (Tina) Nie,Investigating Falls and Rehabilitation Use in Older Wheelchair Users from the National Health and Aging Trends Study,2020,1
+Qiong (Tina) Nie,Social engagement through video chat for older individuals with and without cognitive impairment,2019,1
+Qiong (Tina) Nie,Developing and selecting images to facilitate comprehension of hypertension educational materials for older adults.,2022,0
+Qiong (Tina) Nie,Designing Feedback Visualizations for Anti-Hypertensive Medication Adherence for Older Adults,2022,0
+Qiong (Tina) Nie,Understanding Health Self-Management Challenges and Needs for Older Adults with and without Mobility and Sensory Disabilities,2022,0
+Qiong (Tina) Nie,Designing Behavioral Feedback Visualizations to Support Health Behavior Change,2021,0
+Qiong (Tina) Nie,Developing Educational Materials to Support Older Adults With Hypertension Management,2021,0
+Qiong (Tina) Nie,Understanding Healthcare Challenges and Needs for Older Adults with and without Mobility and Sensory Disabilities.,2020,0
+Qiong (Tina) Nie,Designing video chat for social engagement in older adults with and without mild cognitive impairment.,2020,0
+Qiong (Tina) Nie,EXPLORING VIDEO CHAT FOR SOCIAL ENGAGEMENT IN OLDER ADULTS WITH AND WITHOUT COGNITIVE IMPAIRMENT,2019,0
+Qiong (Tina) Nie,UNDERSTANDING NEEDS AND CHALLENGES OF HEALTH SELF-MANAGEMENT ACTIVITIES FOR OLDER ADULTS WITH MOBILITY LIMITATIONS,2019,0
+Qiong (Tina) Nie,ORAL PAPER PRESENTATION 7: OTHERS,N/A,0
+Shantanu Dutta,An efficient method for improving classification accuracy of handwritten Bangla compound characters using DCNN with dropout and ELU,2017,33
+Shantanu Dutta,Automated cost reduction while using multiple SIMs in a single mobile device,2017,2
+Shantanu Dutta,Towards perceiving and resolving the impediments to reporting for the developing countries,2017,1
+Shantanu Dutta,Service-Hub: A better approach for developing the system of online marketing for daily services,2017,1
+Shantanu Dutta,Broadcasting in Ad-hoc Wireless Sensor Networks Using 4-Hop Neighborhood Information,2020,0
+Shantanu Dutta,The input impedance of triangular shape dielectric resonator antenna,2011,0
+Shantanu Dutta,Full Papers 1-102 Systems Security and Availability 1-38,N/A,0
+Di Duan,Polarization-controlled multifrequency coherent perfect absorption in stereometamaterials,2018,19
+Di Duan,Wide Band Terahertz Switch of Undulated Waveguide With VO2 Film Coated Inner Wall,2018,13
+Di Duan,mmSign: mmWave-based Few-Shot Online Handwritten Signature Verification,2023,4
+Di Duan,EMGSense: A Low-Effort Self-Supervised Domain Adaptation Framework for EMG Sensing,2023,1
+Di Duan,EarSE: Bringing Robust Speech Enhancement to COTS Headphones,2024,0
+Kexin Zhang,“It’s Just Part of Me:” Understanding Avatar Diversity and Self-presentation of People with Disabilities in Social Virtual Reality,2022,32
+Kexin Zhang,A Diary Study in Social Virtual Reality: Impact of Avatars with Disability Signifiers on the Social Experiences of People with Disabilities,2023,4
+Kexin Zhang,“Invisible Illness Is No Longer Invisible”: Making Social VR Avatars More Inclusive for Invisible Disability Representation,2023,1
+Kexin Zhang,Exploring the Design Space of Optical See-through AR Head-Mounted Displays to Support First Responders in the Field,2024,0
+Xiaozhu Hu,Enhancing the perceived emotional intelligence of conversational agents through acoustic cues,2021,11
+Xiaozhu Hu,FootUI: Assisting people with upper body motor impairments to use smartphones with foot gestures on the bed,2021,11
+Xiaozhu Hu,Synapse: interactive guidance by demonstration with trial-and-error support for older adults to use smartphone apps,2022,9
+Xiaozhu Hu,The acoustically emotion-aware conversational agent with speech emotion recognition and empathetic responses,2022,5
+Xiaozhu Hu,SmartRecorder: An IMU-based Video Tutorial Creation by Demonstration System for Smartphone Interaction Tasks,2023,1
+Xiaozhu Hu,Exploring the Adaptation of Mobile GUI to Human Motion Status,2023,0
+Xiaozhu Hu,FootUI: Designing and Detecting Foot Gestures to Assist People with Upper Body Motor Impairments to Use Smartphones on the Bed,2022,0
+Xiangting Bernice Lin,Effects of functional analytic psychotherapy therapist training on therapist factors among therapist trainees in Singapore: A randomized controlled trial,2017,17
+Xiangting Bernice Lin,Exposure therapy with personalized real-time arousal detection and feedback to alleviate social anxiety symptoms in an analogue adult sample: Pilot proof-of-concept randomized …,2019,15
+Xiangting Bernice Lin,Impacts of apolipoprotein e disclosure on healthy Asian older adults: a cohort study,2019,3
+Xiangting Bernice Lin,Perceptions of art therapy by healthcare professionals in medical settings,2023,1
+Xiangting Bernice Lin,Rasch analysis reveals multidimensionality in the public speaking anxiety scale,2021,1
+Xiangting Bernice Lin,"Unity in diversity, but only if you are beautiful: online self-representations and platform choices in virtual social environments",2024,0
+Xiangting Bernice Lin,Personalized Brain-Computer Interface-based Intervention for Mindful Anxiety Regulation in Young Adults: A Randomized Clinical Trial,2024,0
+Xiangting Bernice Lin,Conceptualizing Online Content From a Game-Theoretic and Relational Perspective,2023,0
+Xiangting Bernice Lin,Bridging generations through collaborative artmaking: From design to art therapy,2023,0
+Xiangting Bernice Lin,Social Deficits or Interactional Differences? Interrogating Perspectives on Social Functioning in Autism,2022,0
+Zeyu Huang,MetaMap: Supporting visual metaphor ideation through multi-dimensional example-based exploration,2021,33
+Zeyu Huang,PlanHelper: Supporting Activity Plan Construction with Answer Posts in Community-based QA Platforms,2022,3
+Zeyu Huang,CoArgue: Fostering Lurkers’ Contribution to Collective Arguments in Community-based QA Platforms,2023,1
+Zeyu Huang,Sharing Frissons among Online Video Viewers: Exploring the Design of Affective Communication for Aesthetic Chills,2024,0
+Zeyu Huang,A comparative analysis of Violin and Erhu: Examining the differences and similarities through statistical analysis of multiple musical excerpts,2023,0
+Zeyu Huang,"The emotional characteristics of bass drums, snares, and disengaged snares with different strokes and dynamics",2023,0
+Hrim Rajesh Mehta,Metatation: Annotation as implicit interaction to bridge close and distant reading,2017,18
+Hrim Rajesh Mehta,"Visualization, digital humanities, and the problem of instrumentalism",2021,10
+Hrim Rajesh Mehta,Glidgets: Interactive glyphs for exploring dynamic graphs,2014,6
+Hrim Rajesh Mehta,Datatours: A data narratives framework,2017,3
+Hrim Rajesh Mehta,Augmenting free-form annotations with digital metadata for close reading of poetry,2015,0
+Fabien André,Usability requirements for interaction-oriented development tools,2010,20
+Fabien André,Simulating Air Traffic Control Ground Operations: Preliminary Results from Project Modern Taxiing,2014,9
+Fabien André,Modulating Workload for Air Traffic Controllers during Airport Ground Operations,2015,4
+Fabien André,Development of an ATC Tower Simulator to Simulate Ground Operations,2015,2
+Fabien André,Exploration et gestion des connaissances des ressources en IHM,2010,1
+Fabien André,Development of an ATC Tower Simulator to Simulate Ground Operations,2015,0
+Fabien André,Modulating Workload for Air Traffic Controllers during Airport Ground Operations,2015,0
+Fabien André,Multiple views of control flows as a tool to improve programmer’s understanding of interactive software,2011,0
+Fabien André,Programmes Interactifs Jetables,2009,0
+Santiago Ruano Rincón,Real-time assessment of ptp/ptmp fixed access serving ran with mec capabilities,2020,7
+Santiago Ruano Rincón,Stability of local tip pool sizes,2023,6
+Santiago Ruano Rincón,Semantics based analysis of botnet activity from heterogeneous data sources,2015,6
+Santiago Ruano Rincón,Integrating cultural factors in user-interface design: The case of Nasa Colombian Native People,2013,6
+Santiago Ruano Rincón,Utility maximisation in the Coordinator-less IOTA Tangle,2021,3
+Santiago Ruano Rincón,Reproducing DNS 10Gbps flooding attacks with commodity-hardware,2016,3
+Santiago Ruano Rincón,Human-computer interaction as an instrument for strengthening culture and language of a colombian native community,2011,3
+Santiago Ruano Rincón,The effect of network delays on Distributed Ledgers based on Directed Acyclic Graphs: A mathematical model,2024,2
+Santiago Ruano Rincón,A Software-based Approach to Generate and Detect Flooding Attacks against DNS Infrastructure,2017,0
+Santiago Ruano Rincón,A software-based approach to reproduce and detect flooding attacks against DNS,2017,0
+Santiago Ruano Rincón,An experience about developing educational tools for revitalizing language and culture of a Colombian native community,2011,0
+Santiago Ruano Rincón,La prise en compte de facteurs culturels dans la conception et l'utilisation d'outils d'apprentissage au sein de la communauté nasa de Colombie,2010,0
+Santiago Ruano Rincón,Developing for other cultures. A Cultural Model for Learning Tools Design in the Nasa (Paez) Amerindian Context,2010,0
+Santiago Ruano Rincón,Guidelines for the development of graphical user interfaces suitable for the Nasa Colombian indigenous community,N/A,0
+Santiago Ruano Rincón,An experience about developing educational tools for revitalizing language and culture of a Colombian native community,N/A,0
+Dr Rakesh Shamrao Deore,The historical development of biometric authentication techniques: A recent overview,2013,9
+Dr Rakesh Shamrao Deore,Songs induced mood recognition system using EEG signals,2010,7
+Dr Rakesh Shamrao Deore,Human computer interface through EEG signals,2012,5
+Dr Rakesh Shamrao Deore,Number recognition system using electroencephalogram (EEG) signals,2012,5
+Dr Rakesh Shamrao Deore,Retinal Vessel Segmentation of Non-Proliferative Diabetic Retinopathy,2019,3
+Dr Rakesh Shamrao Deore,P300 based brain computer interface for disabled,2012,3
+Dr Rakesh Shamrao Deore,Development of EEG based Emotion Recognition System using Song Induced Activity,2014,2
+Dr Rakesh Shamrao Deore,Mood Recognition System Using EEG Signal of Song Induced Activities,2014,1
+Dr Rakesh Shamrao Deore,Comparative Study of Brain Imaging Techniques in BCI System.,2013,1
+Dr Rakesh Shamrao Deore,Effectiveness on school partnerships and collaborations on quality,2021,0
+Dr Rakesh Shamrao Deore,Comprehensive Study of Quality of Service in Cloud: An Initiative Towards Brain mapping,2020,0
+Dr Rakesh Shamrao Deore,Comprehensive Study of Quality of Service in Cloud: An Initiative Towards Brain mapping,2020,0
+Dr Rakesh Shamrao Deore,The Positive Impact of E-Learning In Present Educational System,2015,0
+Dr Rakesh Shamrao Deore,"When Atom  meets                  Bit : Social Site , Mobile , Indian Riots",2015,0
+Dr Rakesh Shamrao Deore,Study of Effects of   Mobile on Human Body,2015,0
+Dr Rakesh Shamrao Deore,mpact of Smart Phone:  A social Review,2015,0
+Dr Rakesh Shamrao Deore,Effects of Tower Radiation on  Human  body: A detailed Review,2015,0
+Dr Rakesh Shamrao Deore,Biometric Enabled Ration Card,2015,0
+Dr Rakesh Shamrao Deore,Detection of   Lexical Uints of language using Speech Recognition Technology,2015,0
+Dr Rakesh Shamrao Deore,Person Identification Using Electroncephalogram Signal,2015,0
+Dr Rakesh Shamrao Deore,Digit Recognition System Using EEG signal,2014,0
+Dr Rakesh Shamrao Deore,Detection of Dominated brain regions for emotions using Song induced activity,2014,0
+Dr Rakesh Shamrao Deore,In vivo dielectric measuring instrument using picosecond pulse for detection of oral cancer,2014,0
+Dr Rakesh Shamrao Deore,Comparative Study of Brain Imaging Techniques in BCI System,2013,0
+Dr Rakesh Shamrao Deore,"Past , Present and Future of Human Computer Interaction",2012,0
+Dr Rakesh Shamrao Deore,Role of   EEG in Brain Research,2012,0
+Dr Rakesh Shamrao Deore,Analyze the Impact of Landslide Using High-D Tool,N/A,0
+Guarionex Salivia,PointAssist: assisting individuals with motor impairments,2013,20
+Guarionex Salivia,Study of touch gestures performance in touch devices by young children,2015,7
+Guarionex Salivia,A project-based curriculum for computer science situated to serve underrepresented populations,2022,5
+Guarionex Salivia,Identification of pointing difficulties of two individuals with Parkinson's disease via a sub-movement analysis,2011,4
+Guarionex Salivia,Non-detectable Patterns Hidden Withinsequences of Bits,2024,0
+Guarionex Salivia,Exploring User Interface Improvements for Software Developers who are Blind,2020,0
+Guarionex Salivia,"Measuring the efficiency, effectiveness, and experience of teaching-learning family constructs framework",2017,0
+Guarionex Salivia,A Simplicial Pseudo-Random Number Generator.,2017,0
+Guarionex Salivia,Assistive strategies for people with fine motor skills impairments based on an analysis of sub-movements,2012,0
+Guarionex Salivia,Studies in Theoretical Biology: A Collectionof Undergraduate Research,1996,0
+Guarionex Salivia,A Mathematical Model of the Dynamics of Richettsia rickettsii in Tick-Host Interactions,1996,0
+Guarionex Salivia,A Mathenlatical I'v1odel of thE'D: vnarnics of Rickettsia rickettsii in Tick-Host Interactions,N/A,0
+Alireza Kashian,Automatic analysis of positional plausibility for points of interest in OpenStreetMap using coexistence patterns,2019,16
+Alireza Kashian,"Image and Video Retrieval: 5th Internatinoal Conference, CIVR 2006, Tempe, AZ, USA, July 13-15, 2006, Proceedings",2006,7
+Alireza Kashian,RoadPlex: A mobile VGI game to collect and validate data for POIs,2014,6
+Alireza Kashian,Mining the co-existence of POIs in OpenStreetMap for faulty entry detection,2016,4
+Alireza Kashian,OSM POI Analyzer: A Platform for Assessing Position of POIs in OpenStreetMap,2017,3
+Alireza Kashian,WarnWave: Empowering the crowd to exchange emergency information therough smartphones,2015,0
+Alireza Kashian,Warnvave: Empowering the crowd to exchange emergency information,2015,0
+Alireza Kashian,Smart VGI Platforms: Methods for Automatic Vandalism Detection,2014,0
+Alireza Kashian,A New CAPTCHA Based on Understanding Harmony Images,2010,0
+Alireza Kashian,Commonsense Measurement Through Gaussian Interpolation of Tags for an Image Labeling Game.,2007,0
+Alireza Kashian,Collaborative concept tagging for images based on ontological thinking,2006,0
+Alireza Kashian,Collimator–Collaborative Image Annotator & Visual Concept Map Generator,N/A,0
+Jens Brulmans,Watchme: A novel input method combining a smartwatch and bimanual interaction,2015,33
+Jens Brulmans,Smart Computer-Aided Translation Environment (SCATE): Highlights (. pdf),2018,3
+Ashley N. Reese,Creation of Malaysia’s Royal Belum State Park: A Case Study of Conservation in a Developing Country,2014,36
+Ashley N. Reese,Left and right visual preferences during paired swimming in bottlenose dolphins (Tursiops truncatus),N/A,0
+Wynand Nel,NONLINEAR PROOF-OF-WORK: IMPROVING THE ENERGY EFFICIENCY OF BITCOIN MINING,2020,8
+Wynand Nel,Proving cybercriminals’ possession of stolen credit card details on compromised POS devices,2017,6
+Wynand Nel,Permissionless Blockchain Systems as Pseudo-Random Number Generators for Decentralized Consensus,2023,4
+Wynand Nel,"The Effect of Search Engine, Search Term and Occasion on Brain-Computer Interface Metrics for Emotions When Ambiguous Search Queries Are Used",2019,4
+Wynand Nel,An advance in value chain analysis for smallholder livestock keepers - VAIMS,2009,4
+Wynand Nel,Defining decentralisation in permissionless blockchain systems,2022,3
+Wynand Nel,"Embedding tamper-resistant, publicly verifiable random number seeds in permissionless blockchain systems",2022,3
+Wynand Nel,"Randomised Controlled Trial of the Usability of Major Search Engines (Google, Yahoo! and Bing) When using Ambiguous Search Queries.",2020,2
+Wynand Nel,Transient random number seeds in permissionless blockchain systems,2022,1
+Wynand Nel,Randomised controlled cross-over trial measuring brain-computer interface metrics to characterise the user experience of search engines when ambiguous search queries are used,2018,1
+Wynand Nel,Exponentially Distributed Nonlinear Proof-of-Work: Saving Energy while Preserving Decentralisation in Bitcoin Mining,2024,0
+Wynand Nel,Blockchain Whistleblower System,2023,0
+Wynand Nel,Smart Resource Trading Using Blockchain Technology,2023,0
+Wynand Nel,‘n Ondersteunende stelsel vir die toets van konsensus-algoritmes / A support system for the test of consensus algorithms,2023,0
+Wynand Nel,‘n Ondersteunende stelsel vir die toets van konsensus-algoritmes,2022,0
+Wynand Nel,The Value of Brain-Computer Interface Measurements When Using Ambiguous Search Queries,2022,0
+Wynand Nel,Trouelose oorsprongverifikasie van elektroniese intellektuele eiendom deur middel van blokskakeltegnologie (“blockchain technology”),2019,0
+Wynand Nel,Ambiguous websearch queries: A comparison of search engines and user interactions,2014,0
+Wynand Nel,Development of an online portal for conference management,2013,0
+Wynand Nel,Development of an online portal for conference management,2013,0
+Wynand Nel,An investigation into the internet and search engine experience of a diverse group of first year university students.,2013,0
+Wynand Nel,Comparing questionnaire and physiological usability testing results for a social network.,2012,0
+Wynand Nel,Dubbelsinnige webversoekstringe: `n vergelyking van soekenjins en gebruikersinteraksies.,2012,0
+Wynand Nel,Die kombinering van fisiologiese- en tradisionele gebruiker-toetstegnieke om n sosiale netwerk op verskeie tegnologiese platforms te evalueer.,2011,0
+Wynand Nel,Comparing search engines and user interaction in respect of ambiguous web search queries.,2009,0
+Wynand Nel,A study to determine if experience with mouse-orientated computer games enhances the value that a user draws from an office package in a GUI environment,2006,0
+Wynand Nel,"‘n Ondersteunende stelsel vir die toets van konsensus-algoritmes JDP Bothma, Dr W. Nel (studieleier), R. Fouche (mede-studieleier)",N/A,0
+Wynand Nel,Blokskakel Fluitjieblaser-Stelsel,N/A,0
+Wynand Nel,The AfricAn JournAl of informATion And communicATion (AJIC),N/A,0
+Wynand Nel,IMPROVING THE ENERGY EFFICIENCY OF BITCOIN MINING,N/A,0
+Ayaka Ito,IgA attenuates anaphylaxis and subsequent immune responses in mice: possible application of IgA to vaccines,2014,10
+Ayaka Ito,Intravenous IgA complexed with antigen reduces primary antibody response to the antigen and anaphylaxis upon antigen re-exposure by inhibiting Th1 and Th2 activation in mice,2014,7
+Ayaka Ito,"“Re: Radio”, the place oriented internet radio to enhance the cross-cultural understanding in Japan",2015,4
+Ayaka Ito,Extracting pointing object with demonstrative speech phrase for remote transcription in lecture,2008,4
+Ayaka Ito,A study on demonstrative words extraction in instructor utterance on communication support for hearing impaired persons,2008,3
+Ayaka Ito,Analyzing the impact of culture on students: towards a student eXperience holistic model,2022,2
+Ayaka Ito,A Study of Location-Based Audio Guide System Promoting Cultural Understanding in Japan,2018,2
+Ayaka Ito,Evaluation and behavioral analysis of place-oriented radio by the measurement of cross-cultural understandings,2016,2
+Ayaka Ito,The behavioral analysis for cross-cultural understandings using place oriented internet radio,2016,1
+Ayaka Ito,The proposal of,N/A,1
+Ayaka Ito,Proposal of the Elderly Supporting System Based on the Perspective of Local Community in Japan,2020,0
+Ayaka Ito,The proposal of cross-cultural understanding model using place-oriented audio guide system,2019,0
+Ayaka Ito,A Comparative Study of Cross-Cultural Awareness using Place Oriented Internet Radio,2017,0
+Ayaka Ito,A Study on Integration of Demonstrative Words with Gestures for Remote Captioning,2009,0
+Ayaka Ito,An Analysis between Pointing Object and Demonstrative Speech Phrases for Remote Transcription,2008,0
+Ayaka Ito,"The Evaluation and Implementation of “Re: Radio”, the Place Oriented Internet Radio to Enhance the Cross-Cultural Understanding in Japan",N/A,0
+Ayaka Ito,Design and Evaluation of Place Oriented Radio by the Measurement of Cross-Cultural Understandings,N/A,0
+Yenchin Lai,Eyewear to Make Me Smile: Can Electric Muscle Stimulation increase Happiness?,2017,13
+Yenchin Lai,Seeing the faces is so important—Experiences from online team meetings on commercial virtual reality platforms,2023,11
+Yenchin Lai,Ambient rhythm: Melodic sonification of status information for IoT-enabled devices,2016,9
+Yenchin Lai,Understanding face gestures with a user-centered approach using personal computer applications as an example,2020,3
+Yenchin Lai,Eyewear to Make Me Smile,2017,0
+Riyanthi Angrainy Sianturi,PERANCANGAN PENGUJIAN FUNGSIONAL DAN NON FUNGSIONAL APLIKASI SIAPPARA DI KABUPATEN HUMBANG HASUNDUTAN,2021,8
+Riyanthi Angrainy Sianturi,Perancangan Aplikasi” Siappara” Untuk Pelaporan Setoran E-Retribusi Pasar Kabupaten Humbang Hasundutan,2021,7
+Riyanthi Angrainy Sianturi,Penerapan user Experience Design Pada Pengembangan Aplikasi Mobile Markopi,2021,6
+Riyanthi Angrainy Sianturi,Literasi Media Digital Pada Komunitas Pariwisata di Kawasan Danau Toba,2021,5
+Riyanthi Angrainy Sianturi,Development of Tourist Village Website to Increase Tourism in Lake Toba,2022,3
+Riyanthi Angrainy Sianturi,Applying User Centered design to Mobile Application for Children,2019,3
+Riyanthi Angrainy Sianturi,Restricted Boltzmann machine and matrix factorization-alternating square algorithm for development tourist recommendation system,2022,1
+Riyanthi Angrainy Sianturi,PENGEMBANGAN APLIKASI WEB PARIWISATA DANAU TOBA BERBASIS KOMUNITAS (VISIT TOBA),2022,1
+Riyanthi Angrainy Sianturi,"Design Of"" Siappara"" Application For Reporting Of E-retribution Deposits In Humbang Hasundutan Regency",2021,1
+Riyanthi Angrainy Sianturi,Design Of Functional And Non-functional Tests Of Siappara Applications In Humbang Hasundutan District,2021,1
+Riyanthi Angrainy Sianturi,DESAIN ARSITEKTUR VIRTUALISASI PENGEMBANGAN SISTEM INFORMASI MANAJEMEN PENGELOLAAN SAMPAH RUMAH TANGGA PADA BANK SAMPAH BERBASIS CONTAINER DOCKER,2023,0
+Riyanthi Angrainy Sianturi,Analysis and The Preliminary Design for Backend Technology of Disaster Management Information System,2023,0
+Riyanthi Angrainy Sianturi,Development of Signer Portal for Digital Products by Using Iterative Model at PT RST,2022,0
+Riyanthi Angrainy Sianturi,EVALUASI USABILITY WEBSITE DI TENUN.,2022,0
+Riyanthi Angrainy Sianturi,Perancangan Pengujian Usability Pada Website Desa Wisata Di Kawasan Danau Toba,2021,0
+Riyanthi Angrainy Sianturi,Kajian Identitas Visual Brand Samosir (Studi Kasus: Visit Samosir Year 2014),2017,0
+Riyanthi Angrainy Sianturi,PELAKSANAAN RENCANA OPERASIONAL BRANDING SAMOSIR,2015,0
+Riyanthi Angrainy Sianturi,Radityo Prasetianto Wibowo Rajasekhar Mungi Raswa Raswa Renny Pradina Kusumawardani Restyandito,N/A,0
+Kriti Nelavelli,Refuge tech: An assets-based approach to refugee resettlement,2018,31
+Kriti Nelavelli,Adaptive App Design by Detecting Handedness,2018,5
+Norhanisha Yusof,User Experience Dimensions for E-procurement: A Systematic Review,2022,8
+Norhanisha Yusof,A conceptual user experience evaluation model on online systems,2022,8
+Norhanisha Yusof,"The Effect of Gamified Assessment on Student’s Achievement, Motivation and Engagement in Database Design Course",2019,8
+Norhanisha Yusof,A review of fuzzy Delphi method application in human-computer interaction studies,2022,5
+Norhanisha Yusof,Prior User Experience (UX) on E-procurement System Usage,2020,3
+Norhanisha Yusof,Quality Requirements of Electronic Procurement System for Enhancing its User Experiences (UX),2022,2
+Norhanisha Yusof,Continuous Quality Improvement (CQI): Student's Satisfaction In Polytechnic,2017,2
+Norhanisha Yusof,A REQUIREMENT MODEL OF A WEB-BASED DIARY STUDY FOR QUALITATIVE STUDIES,2023,0
+Norhanisha Yusof,Lower Form Grade System (LF-Grade Sys),2023,0
+Norhanisha Yusof,The Trend of Published Literature on User Experience (UX) Evaluation: A Bibliometric Analysis,2021,0
+Norhanisha Yusof,"Penggunaan Google Sites Sebagai Medium Pembelajaran Bagi Pelajar JTMK, Politeknik Balik Pulau.",2015,0
+Norhanisha Yusof,Tahap Pendedahan CIDOS Dan Penggunaannya dengan Media Sosial Dalam Pembelajaran dan Pengajaran,2015,0
+Norhanisha Yusof,Penggunaan Bahasa Inggeris Bagi Proses Pengajaran Dalam Kalangan Pensyarah Politeknik Balik Pulau dan Politeknik Seberang Perai,2011,0
+Norhanisha Yusof,Pendedahan Pelajar Kepada Perlaksanaan Kerja Semasa Latihan Industri Berkaitan Dengan Program Yang Diambil Di Politeknik.,2011,0
+Norhanisha Yusof,Persepsi Staf Politeknik Balik Pulau Terhadap Tugas Sampingan Di Politeknik,2011,0
+Norhanisha Yusof,"Pelajar Politeknik Kurang Diberi Pendedahan Kepada Pembaikan, Penyelenggaraan dan Perlaksanaan Sesuatu Kerja Semasa Menjalani Latihan Industri",2011,0
+Norhanisha Yusof,Hubungan Keupayaan Visualisasi Dengan Gaya Kognitif Pelajar Pendidikan Teknik & Vokasional Dalam Pembelajaran,2006,0
+Juliana Mohamed,Basics Malaysian Sign Language: the development of mobile learning application,2021,4
+Juliana Mohamed,3D Sign Language: The Development of Mobile Learning Application,2022,3
+Juliana Mohamed,MULTIMEDIA GRAFIK INTERAKTIF MENINGKATKAN DAYA KEFAHAMAN PEMBELAJARAN DALAM KALANGAN KANAK-KANAK PRA SEKOLAH: FUN LEARNING WITH TECHNOLOGY,2019,3
+Juliana Mohamed,The Assistive Technology for Teaching and Learning of Social Skills for Autism Spectrum Disorder Children: Multimedia Interactive Social Skills Module Application.,2023,2
+Juliana Mohamed,Southern South China Sea Dynamics: Sea Level Change from Coupled Model Intercomparison Project Phase 6 (CMIP6) in the 21st Century,2023,2
+Juliana Mohamed,Pembangunan Aplikasi Pembelajaran Mobil (M-Learning) Adik Adik Jawi bagi Meningkatkan Pengalaman Pembelajaran dalam Kaligrafi Jawi: The Development of Mobile Learning (M …,2021,2
+Juliana Mohamed,The Development of Mobile Learning (M-Learning) Apps Adik-Adik Jawi to Enhance Learning Experience in Arabic Calligraphy,2021,2
+Juliana Mohamed,Step and step-Nc as a tool for big data in cloud manufacturing,2021,2
+Juliana Mohamed,"LEARNING AL QURAN COMPREHENSION, TRANSLATION AND USAGES USING A ‘MULTIPLAYER’GAME (PAHLAWAN QARIN)",2019,2
+Juliana Mohamed,Associating user’s psychology into quality of service: An example of web adaptation services,2017,2
+Juliana Mohamed,An SLA evaluator for multimedia content adaptation services,2014,2
+Juliana Mohamed,Limits of Acceptable Change as Alternative Approach for Managing Small Marine Protected Area?: A Case Study on Pulau Payar Marine Park,2010,2
+Juliana Mohamed,A review on the evolvement of computational thinking in Malaysia,2022,1
+Juliana Mohamed,The Development of Self-Care Therapy Application: A pilot test,2022,1
+Juliana Mohamed,"Public understanding on rip currents and beach safety at teluk cempedak recreational beach of Pahang, Malaysia",2022,1
+Juliana Mohamed,Bridging Usability and Accessibility of User Authentication using Usable Accessed (UAce) for Online Payment Applications,2021,1
+Juliana Mohamed,User Quality of Experience (QoE) Satisfaction for Video Content Selection (VCS) Framework in Smartphone Devices,2021,1
+Juliana Mohamed,Aplikasi Realiti Pergerakan (AR) Untuk Standard Subjek Muzik Tahun 4 Sekolah Rendah: Aplikasi Realiti Pergerakan (AR) Untuk Standard Subjek Muzik Tahun 4 Sekolah Rendah,2021,1
+Juliana Mohamed,Pahlawan Qarin: The Concept of Collaborative Learning Game Environment in the Understanding and Translation of the Quran among Youngsters,2021,1
+Juliana Mohamed,Forest Multiplication: A Game Based Learning Apps to Enhance Learning Experience in Multiplications for Primary Students towards 21st Century Learning Skills,2021,1
+Juliana Mohamed,The impact of climate change on coastal erosion in Southeast Asia and the compelling need to establish robust adaptation strategies,2024,0
+Juliana Mohamed,DDoS Classification using Combined Techniques.,2024,0
+Juliana Mohamed,Healthy vs Unhealthy Food Game Apps: Gamification App for Year Three Students,2023,0
+Juliana Mohamed,Diet Composition of Indo-Pacific Sailfish (Istiophorus platypterus) By-Catch in the East Coast of Peninsular Malaysia,2023,0
+Juliana Mohamed,Pembangunan Aplikasi Deportes Fitness,2023,0
+Juliana Mohamed,A Comparison of Energy Consumption between Low-E Glass and Standard Float Glass Window,2023,0
+Juliana Mohamed,"Public understanding of rip current and beach safety at Teluk Cempedak Recreational Beach in Pahang, Malaysia",2023,0
+Juliana Mohamed,Development of e-Pocket Musafir (e-PM) an Android Mobile App for Muslim Travelers: Pembangunan e-Pocket Musafir (e-PM) Aplikasi Mudah Alih Android untuk Pengembara Muslim,2022,0
+Juliana Mohamed,Associating User’s Preference and Satisfaction into Quality of Experience: A Shoulder-surfing Resistant Authentication Scheme by Visual Perception,2022,0
+Juliana Mohamed,BMI Home Workout: Exercise Application Without Any Equipment Along with BMI Calculations,2022,0
+Juliana Mohamed,Development of Building Maintenance E-Report System Using Building Information Modeling,2021,0
+Juliana Mohamed,Home's Décor-Home Decoration Implementing Augmented Reality,2021,0
+Juliana Mohamed,Parking ‘didacticiel’: a game-based learning application of vehicle parking,2021,0
+Juliana Mohamed,ADIK – ADIK SOLAT: THE DEVELOPMENT OF MOBILE LEARNING APPS TO ENHANCE LEARNING EXPERIENCE IN PRAYERS TOWARDS EDUCATION 4.0,2019,0
+Juliana Mohamed,Enhancing student’s engagement and interest in the Al Quran comprehension and translation through Collaborative Learning Game (Pahlawan Qarin),2019,0
+Juliana Mohamed,e-sirah Saidatina Siti Khadijah: The development of mobile apps for hearing-impaired students towards Education 4.0,2019,0
+Juliana Mohamed,Proses jaringan interaksi di antara pihak berkepentingan dalam pengurusan zon pinggir pantai di Malaysia: dari perspektif perundangan,2018,0
+Juliana Mohamed,An improved strategy to support multiple QoS assessment for selecting content adaptation services,2015,0
+Juliana Mohamed,An SLA Evaluator for Multimedia Content Adaptation Services,N/A,0
+Juliana Mohamed,Incorporating Human Psychological Factor in Assessing the Deliverability of Quality of Service (QoS) for Multimedia Content Adaptation Services,N/A,0
+Atieh Kashani,Residential energy consumer behavior modification via gamification,2017,19
+Atieh Kashani,A cloud to mobile application for consumer behavior modification,2015,8
+Atieh Kashani,A data-driven design of ar alternate reality games to measure resilience,2022,4
+Atieh Kashani,Assessing the Impact of Personality on Affective States from Video Game Communication,2023,2
+Atieh Kashani,Under pressure: A multi-modal analysis of induced stressors in games for resilience,2023,2
+Atieh Kashani,Designing persuasive eco-feedback system to promote energy conservation behavior,2015,1
+Lachlan Hardy,Estimating service quality in industrial internet-of-things monitoring applications with blockchain,2019,27
+Lachlan Hardy,GPSPiChain-blockchain and AI based self-contained anomaly detection family security system in smart home,2021,7
+Lachlan Hardy,The Elephant Broke the Room–Digital Innovation is Hampered by a Lack of Digital Competency and Self-Managed Technical Support,2022,1
+Lachlan Hardy,Challenges and Prospects of a Robotics Course to Supplement Australia's Digital Technology Curriculum,2019,1
+Lachlan Hardy,GPSPiChain-Blockchain based self-contained family security system in smart home,2021,0
+Mohammad J M Zedan,Automated glaucoma screening and diagnosis based on retinal fundus images using deep learning approaches: A comprehensive review,2023,17
+Mohammad J M Zedan,Controlling Embedded Systems Remotely via Internet-of-Things Based on Emotional Recognition,2020,6
+Mohammad J M Zedan,Feature selection based on wrapper and information gain,2019,6
+Mohammad J M Zedan,Real-time Environmental Control System for Disability Access under Node-MCU Platform,2019,3
+Mohammad J M Zedan,COVID-19 Improved Diagnoses Based on the Open-morphology Filter and Deep-learning,2022,2
+Mohammad J M Zedan,Operating System Realization for Real-Time Visualization of CAN-Bus Data Streams using Xilinx ZyncSoC,2020,1
+Mohammad J M Zedan,Face Recognition Security System Based on Convolutional Neural Networks,2020,1
+Mohammad J M Zedan,Research Article Controlling Embedded Systems Remotely via Internet-of-Things Based on Emotional Recognition,2020,0
+"Najeeb Gambo Abdulhamid, PhD",A survey of social media use in emergency situations: A literature review,2021,24
+"Najeeb Gambo Abdulhamid, PhD",Harnessing social and collaborative tools in digital disaster response work: Implications for design and practice,2020,6
+"Najeeb Gambo Abdulhamid, PhD",Harnessing collaborative technologies in digital disaster response work: an examination of digital volunteers’ activities in processing crisis data,2018,4
+"Najeeb Gambo Abdulhamid, PhD",Process Workflow in Crowdsourced Digital Disaster Responses,2018,2
+"Najeeb Gambo Abdulhamid, PhD",Microsoft New Future of Work Report 2023,2023,0
+"Najeeb Gambo Abdulhamid, PhD",Can Large Language Models Support Medical Facilitation Work A Speculative Analysis,2023,0
+"Najeeb Gambo Abdulhamid, PhD",Exploring the prospects of big data analytics in colleges of education in Ghana.,2021,0
+"Najeeb Gambo Abdulhamid, PhD",Towards an Understanding of Digital Disaster Response Workflow in Humanitarian Emergencies,2019,0
+"Najeeb Gambo Abdulhamid, PhD",The Strategic Role of ICTs in Tourism in Developing Countries,2016,0
+"Najeeb Gambo Abdulhamid, PhD",Assessing the effectiveness of Mobile Phone Aided Health Services for improving Maternal Healthcare,2015,0
+"Najeeb Gambo Abdulhamid, PhD",Systematic Review of Information System Journals on the Use of Web 2.0 in Mass Emergencies,N/A,0
+Dr. Olutola Fagbolu,Development of a Digital Yorùbá Phrasebook on a mobile Platform,2014,8
+Dr. Olutola Fagbolu,Digital yoruba corpus,2015,6
+Dr. Olutola Fagbolu,Secured banking operations with face-based automated teller machine,2014,4
+Dr. Olutola Fagbolu,Data leak protection using text mining and social network analysis,2014,4
+Dr. Olutola Fagbolu,Model for translation of English language noun phrases to Luganda,2019,3
+Dr. Olutola Fagbolu,Mobile recruitment system for Nigerian civil service commission via cloud computing,2018,3
+Dr. Olutola Fagbolu,Applying rough set theory to Yorubá language translation,2016,2
+Dr. Olutola Fagbolu,COMPARATIVE ANALYSIS OF CLASSICAL BITS AND QUANTUM BITS,2011,2
+Dr. Olutola Fagbolu,"Overview of interactive chatbot for modelling, predicting and reporting COVID-19 in Mano river union",2021,1
+Dr. Olutola Fagbolu,Recommender System for Modelling Subject Combination in Ugandan Senior Secondary Schools,2020,1
+Dr. Olutola Fagbolu,Android Platform for Machine Translation-A Focus on Yorùbá,2018,1
+Dr. Olutola Fagbolu,Simulation of Quantum Computer BITS and gates,2009,1
+Dr. Olutola Fagbolu,Multilingual Social Media Platform-based Tourism Operations in Uganda,2021,0
+Dr. Olutola Fagbolu,Intelligent Vehicular Traffic Control System using Priority Longest Queue First Model,2021,0
+Dr. Olutola Fagbolu,"Radio Frequency Identification for Staff File Tagging, Detection and Management: A Case Study of Yobe State University, Damaturu Nigeria",2019,0
+Dr. Olutola Fagbolu,Smart Luganda Language Translator,2018,0
+Dr. Olutola Fagbolu,Automated Personal Clinic Services in Uganda–Software Requirement Specification,2018,0
+Dr. Olutola Fagbolu,Subtractive clustering based fuzzy rule reduction for classification of events on petroleum products pipeline,2017,0
+Dr. Olutola Fagbolu,Multilingual Simulation of QBITS and QGates using English and Yorùbá approach,2015,0
+Dr. Olutola Fagbolu,NATURAL LANGUAGE PROCESSING OF ENGLISH LANGUAGE TO YORÙBÁ LANGUAGE,2015,0
+Dr. Olutola Fagbolu,Comparative Analysis of Fuzzy Logic and Neutral Networks: A Focus on Polytechnic Entrant System,2014,0
+Dr. Olutola Fagbolu,Security Issues in Information and Communication Technology  Environment – A focus on Automated Teller Machine,2011,0
+Dr. Olutola Fagbolu,QUANTUM COMPUTATION: PROSPECTS AND PROBLEMS,2011,0
+Dr. Olutola Fagbolu,Building Quantum Computer by using Simulation Approach,2009,0
+Dr. Olutola Fagbolu,"ASSURANCE FORUM (EAQAN) MAY 7–10, 2018. KIGALI, RWANDA",N/A,0
+Md. Mirajul Islam,Understanding the sensibility of social media use and privacy with Bangladeshi Facebook group users,2020,14
+Md. Mirajul Islam,Privacy during pandemic: A global view of privacy practices around COVID-19 apps,2021,12
+Md. Mirajul Islam,"As you are, so shall you move your head: a system-level analysis between head movements and corresponding traits and emotions",2019,7
+Md. Mirajul Islam,"Imagined Online Communities: Communionship, Sovereignty, and Inclusiveness in Facebook Groups",2022,3
+Yao Lyu,Redefining qualitative analysis in the AI era: Utilizing ChatGPT for efficient thematic analysis,2023,12
+Yao Lyu,Helping helpers: Supporting volunteers in remote sighted assistance with augmented reality maps,2022,11
+Yao Lyu,Cultural influences on Chinese citizens’ adoption of digital contact tracing: a human infrastructure perspective,2022,7
+Yao Lyu,The Attitudes of Chinese Online Users Towards Movie Piracy: A Content Analysis,2020,3
+Yao Lyu,""" I Got Flagged for Supposed Bullying, Even Though It Was in Response to Someone Harassing Me About My Disability."": A Study of Blind TikTokers' Content Moderation Experiences",2024,2
+Yao Lyu,"Facial recognition interaction in a university setting: impression, reaction, and decision-making",2022,1
+Yao Lyu,A Preliminary Exploration of YouTubers' Use of Generative-AI in Content Creation,2024,0
+Yao Lyu,Reconnecting An International Travel Network: The Personal Infrastructuring Work of International Travelers in A Multi-facet Crisis,2023,0
+Yao Lyu,""" Because Some Sighted People, They Don't Know What the Heck You're Talking About:"" A Study of Blind TikTokers' Infrastructuring Work to Build Independence",2023,0
+Yao Lyu,Feasibility of Interactive 3D Map for Remote Sighted Assistance,2022,0
+Yao Lyu,How People Experience Facial Recognition in an Organizational Setting: An Organizational Justice Perspective,2021,0
+Thibault Raffaillac,Polyphony: Programming Interfaces and Interactions with the Entity-Component-System Model,2019,22
+Thibault Raffaillac,Application du modèle Entité-Composant-Système à la programmation d'interactions,2018,6
+Thibault Raffaillac,What do Researchers Need when Implementing Novel Interaction Techniques?,2022,3
+Thibault Raffaillac,Améliorer les langages et bibliothèques logicielles pour programmer l’interaction,2019,2
+Thibault Raffaillac,Turning function calls into animations,2017,2
+Thibault Raffaillac,Mining human factors general trends from+ 100k UML class diagrams,2022,1
+Thibault Raffaillac,Visualisation automatique de graphes pour l’apprentissage des algorithmes,2021,0
+Thibault Raffaillac,Utilisation d’un juge en ligne pour l’évaluation automatique des programmes des étudiants,2020,0
+Thibault Raffaillac,Mise en place d’une plateforme de programmation compétitive comme support de TDs,2020,0
+Thibault Raffaillac,Language and system support for interaction,2017,0
+Thibault Raffaillac,Exploring the design of compiler feedback,2012,0
+Thibault Raffaillac,Exploring the Design of Compiler Feedback,2012,0
+Marianne Aubin Le Quéré,"The Upworthy Research Archive, a time series of 32,487 experiments in US media",2021,18
+Marianne Aubin Le Quéré,Drafty: Enlisting users to be editors who maintain structured data,2017,7
+Marianne Aubin Le Quéré,Understanding Local News Social Coverage and Engagement at Scale during the COVID-19 Pandemic,2022,6
+Marianne Aubin Le Quéré,Information Needs of Essential Workers During the COVID-19 Pandemic,2022,2
+Marianne Aubin Le Quéré,"The Upworthy Research Archive, a time series of experiments in US media",N/A,2
+Marianne Aubin Le Quéré,Broadening scientific engagement and inclusivity in IPCC reports through collaborative technology platforms,2023,1
+Marianne Aubin Le Quéré,LLMs as Research Tools: Applications and Evaluations in HCI Data Work,2024,0
+Marianne Aubin Le Quéré,"The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication",2023,0
+Marianne Aubin Le Quéré,The Modern Informed Citizen: Understanding Trade-offs in Digital News Consumption,2023,0
+Marianne Aubin Le Quéré,"Local, Social, and Online: Comparing the Perceptions and Impact of Local Online Groups and Local Media Pages on Facebook",2022,0
+Marianne Aubin Le Quéré,Trust in AI in Under-resourced Environments: Lessons from Local Journalism,2022,0
+Marianne Aubin Le Quéré,Not Quite Filling the Void: Comparing the Perceptions of Local Online Groups and Local Media Pages on Facebook,N/A,0
+Matin Lotfaliei,HeadJoystick: Improving flying in VR using a novel leaning-based interface,2020,36
+Matin Lotfaliei,A New Audio Compression Scheme that Leverages Repetition in Music,2022,0
+Bianca Rodrigues Teixeira,Lean r&d: An agile research and development approach for digital transformation,2020,14
+Bianca Rodrigues Teixeira,Towards lean R&D: an agile research and development approach for digital transformation,2020,10
+Bianca Rodrigues Teixeira,Memory and Privacy in The Entire History of You.,2017,3
+Bianca Rodrigues Teixeira,Fish diversity in the rivers that drain the Baixada Maranhense and the Mearim basin in northeastern Brazil,2023,2
+Bianca Rodrigues Teixeira,Lessons Learned from a Lean R&D Project.,2021,2
+Bianca Rodrigues Teixeira,Investigating the integration of user values with design rationale and its effects on HCI design artifacts,2020,2
+Bianca Rodrigues Teixeira,Privacy and Transparency within the 4IR: Two faces of the same coin,2019,2
+Bianca Rodrigues Teixeira,Em Busca dos Requisites Para Susana: Requisites para Uma Humanoide Construtora de Requisites,2018,1
+Bianca Rodrigues Teixeira,Diversidade de peixes dos rios que drenam a Baixada Maranhense e bacia do Mearim no Nordeste do Brasil,2023,0
+Bianca Rodrigues Teixeira,Method for detecting inaccuracies and gaps and for suggesting deterioration mechanisms and actions in inspection reports,2023,0
+Bianca Rodrigues Teixeira,Navigating through real and fake news by using provenance information,2020,0
+Bianca Rodrigues Teixeira,MyMemory: an ontology for privacy protection in external digital memories.,2018,0
+Bianca Rodrigues Teixeira,DECEMBER OF 2017,N/A,0
